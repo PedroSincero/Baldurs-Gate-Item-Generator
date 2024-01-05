@@ -1,0 +1,2704 @@
+[
+  {
+    "name": "Scroll of Darkvision",
+    "description": "Scroll of Darkvision is a single-use scroll that allows the user to cast Darkvision as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/e/e5/Scroll_of_Darkvision_Faded.png/300px-Scroll_of_Darkvision_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  65  gp  "
+    ],
+    "effect": [
+      "Grants Darkvision",
+      " Melee: 1.5 m / 5 ft"
+    ],
+    "condition": [
+      "Darkvision  Duration: Until Long rest ",
+      "Can see in the dark out to the range of  12 m / 40 ft."
+    ],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Darkvision"
+  },
+  {
+    "name": "Scroll of Detect Thoughts",
+    "description": "Scroll of Detect Thoughts is a single-use scroll that allows the user to cast Detect Thoughts as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/1/16/Scroll_of_Detect_Thoughts_Faded.png/300px-Scroll_of_Detect_Thoughts_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  65  gp  "
+    ],
+    "effect": [
+      "Grants Detect Thoughts",
+      " Concentration",
+      " Range: Self"
+    ],
+    "condition": [
+      "Detect Thoughts  Duration: Until Long rest ",
+      "Can read the thoughts of certain creatures while talking to them."
+    ],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Detect_Thoughts"
+  },
+  {
+    "name": "Scroll of Feather Fall",
+    "description": "Scroll of Feather Fall is a single-use scroll that allows the user to cast Feather Fall as a bonus action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/5/5f/Scroll_of_Feather_Fall_Faded.png/300px-Scroll_of_Feather_Fall_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
+    ],
+    "effect": [
+      "Grants Feather Fall",
+      " Range: Self",
+      " AoE: 9 m / 30 ft (Radius)"
+    ],
+    "condition": [
+      "Feather Fall  Duration: 10 turns Rate of falling is slowed, granting Immunity to Falling damage."
+    ],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Feather_Fall"
+  },
+  {
+    "name": "Scroll of Jump",
+    "description": "Scroll of Jump is a single-use scroll that allows the user to cast Enhance Leap as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/a/a1/Scroll_of_Jump_Faded.png/300px-Scroll_of_Jump_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
+    ],
+    "effect": [
+      "Grants Jump",
+      " Melee: 1.5 m / 5 ft"
+    ],
+    "condition": [
+      "Jump  Duration: 10 turns ",
+      "The creature's  Jump distance is tripled for 1 minute."
+    ],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Jump"
+  },
+  {
+    "name": "Scroll of Speak with Dead",
+    "description": "Scroll of Speak with Dead is a single-use scroll that allows the user to cast Speak with Dead as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/8/86/Scroll_of_Speak_With_Dead_Faded.png/300px-Scroll_of_Speak_With_Dead_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  65  gp  "
+    ],
+    "effect": [
+      "Casts  Speak with Dead.",
+      " Range: 18 m / 60 ft",
+      "Grants the ability to recast  Speak with Dead.",
+      " Range: 18 m / 60 ft",
+      " Duration: Until Long rest"
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Speak_with_Dead"
+  },
+  {
+    "name": "Scroll of Fly",
+    "description": "Scroll of Fly is a single-use scroll that allows the user to cast Grant Flight as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/5/50/Scroll_of_Fly_Faded.png/300px-Scroll_of_Fly_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  100  gp  "
+    ],
+    "effect": [
+      "Grants Flight",
+      " Concentration",
+      " Melee: 1.5 m / 5 ft"
+    ],
+    "condition": [
+      "Flight  Duration: 10 turns ",
+      "Fly up to target position, up to  18 m / 60 ft each turn using your Movement Speed."
+    ],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Fly"
+  },
+  {
+    "name": "Scroll of Dimension Door",
+    "description": "Scroll of Dimension Door is a Scroll that allows the user to cast Dimension Door as an action.\n",
+    "image": "https://bg3.wiki/w/images/3/30/Scroll_of_Dimension_Door_Unfaded_Icon.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  100  gp  "
+    ],
+    "effect": [
+      "Teleport yourself and up to one adjacent ally to a place you can see. The ally cannot be larger than Medium.",
+      " Melee: 1.5 m / 5 ft Caster distance to ally.",
+      " Range: 30 m / 98 ft Teleportation distance."
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Dimension_Door"
+  },
+  {
+    "name": "Scroll of Artistry of War",
+    "description": "Scroll of  Artistry of War is a single-use scroll that casts Artistry of War.\n",
+    "image": "https://bg3.wiki/w/images/thumb/7/7c/Scroll_of_Artistry_of_War_Faded.png/300px-Scroll_of_Artistry_of_War_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Very Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  180  gp  "
+    ],
+    "effect": [
+      "Cast  Artistry of War.",
+      " Range: 18 m / 60 ft"
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Artistry_of_War"
+  },
+  {
+    "name": "Scroll of Summon Quasit",
+    "description": "Scroll of Summon Quasit is single-use scroll that allows the user to cast  Find Familiar: Cheeky Quasit as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/5/53/Scroll_of_Summon_Quasit_Faded.png/300px-Scroll_of_Summon_Quasit_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  ",
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
+    ],
+    "effect": [
+      "Casts  Find Familiar: Cheeky Quasit on use."
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Summon_Quasit"
+  },
+  {
+    "name": "Scroll of Bestial Communion",
+    "description": "Scroll of Bestial Communion is a single-use scroll that casts Sights of the Seelie: Summon Deva.\n",
+    "image": "https://bg3.wiki/w/images/thumb/f/ff/Scroll_of_Bestial_Communion_Faded.png/300px-Scroll_of_Bestial_Communion_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Very Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  180  gp  "
+    ],
+    "effect": [
+      "Cast  Sights of the Seelie: Summon Deva."
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Bestial_Communion"
+  },
+  {
+    "name": "Scroll of Bone Chill",
+    "description": "Scroll of Bone Chill is a single-use scroll that allows the user to cast Bone Chill as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/2/2f/Scroll_of_Chill_Touch_Faded.png/300px-Scroll_of_Chill_Touch_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
+    ],
+    "effect": [
+      "Deal 2d8Necrotic",
+      "Inflicts Bone Chilled",
+      " Range: 18 m / 60 ft"
+    ],
+    "condition": [
+      "Bone Chilled  Duration: 1 turn ",
+      "Can not regain   hit points.",
+      "If Undead, has  Disadvantage on  Attack rolls."
+    ],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Bone_Chill"
+  },
+  {
+    "name": "Scroll of Fire Bolt",
+    "description": "Scroll of Fire Bolt is a single-use scroll that allows the user to cast Fire Bolt as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/2/24/Scroll_of_Firebolt_Faded.webp/300px-Scroll_of_Firebolt_Faded.webp.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
+    ],
+    "effect": [
+      "Deal 2d10Fire",
+      " Range: 18 m / 60 ft"
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Fire_Bolt"
+  },
+  {
+    "name": "Scroll of Ray of Frost",
+    "description": "Scroll of Ray of Frost is a single-use scroll that allows the user to cast Ray of Frost as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/1/18/Scroll_of_Ray_of_Frost_Faded.png/300px-Scroll_of_Ray_of_Frost_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
+    ],
+    "effect": [
+      "Deal 2d8Cold",
+      "Inflicts Ray of Frost",
+      " Range: 18 m / 60 ft"
+    ],
+    "condition": [
+      "Ray of Frost  Duration: 1 turn ",
+      "Movement Speed is reduced by  3 m / 10 ft."
+    ],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Ray_of_Frost"
+  },
+  {
+    "name": "Scroll of Shocking Grasp",
+    "description": "Scroll of Shocking Grasp is a single-use scroll that allows the user to cast Shocking Grasp as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/6/64/Scroll_of_Shocking_Grasp_Faded.png/300px-Scroll_of_Shocking_Grasp_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
+    ],
+    "effect": [
+      "Deal 2d8Lightning",
+      " Melee: 1.5 m / 5 ft",
+      "The target cannot use reactions.",
+      "This spell has  Advantage on creatures with metal armour."
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Shocking_Grasp"
+  },
+  {
+    "name": "Scroll of Animal Friendship",
+    "description": "Scroll of Animal Friendship is a single-use scroll that allows the user to cast Animal Friendship as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/e/e9/Scroll_of_Animal_Friendship_Faded.png/300px-Scroll_of_Animal_Friendship_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
+    ],
+    "effect": [
+      "Inflicts Charmed on a beast of 3 Intelligence or less",
+      " Range: 18 m / 60 ft"
+    ],
+    "condition": [
+      "Charmed  Duration: 10 turns ",
+      "Can't attack spellcaster. Spellcaster has  Advantage on Charisma Checks in dialogue."
+    ],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Animal_Friendship"
+  },
+  {
+    "name": "Scroll of Burning Hands",
+    "description": "Scroll of Burning Hands is a single-use scroll that allows the user to cast Burning Hands as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Scroll_of_Burning_Hands_Faded.png/300px-Scroll_of_Burning_Hands_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
+    ],
+    "effect": [
+      "Deal 3d6Fire (Dexterity Save to halve)",
+      " Range: Self",
+      " AoE: 5 m / 17 ft (Cone)"
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Burning_Hands"
+  },
+  {
+    "name": "Scroll of Charm Person",
+    "description": "Scroll of Charm Person is a single-use scroll that allows the user to cast Charm Person as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/7/75/Scroll_of_Charm_Person_Faded.png/300px-Scroll_of_Charm_Person_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
+    ],
+    "effect": [
+      "Inflicts Charmed",
+      " Concentration",
+      " Range: 18 m / 60 ft"
+    ],
+    "condition": [
+      "Charmed  Duration: 10 turns   Wisdom saving throw ",
+      "Can't attack spellcaster. Spellcaster has  Advantage on Charisma Checks in dialogue."
+    ],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Charm_Person"
+  },
+  {
+    "name": "Scroll of Chromatic Orb",
+    "description": "Scroll of Chromatic Orb is a single-use scroll that allows the user to cast Chromatic Orb as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/5/59/Scroll_of_Chromatic_Orb_Faded.png/300px-Scroll_of_Chromatic_Orb_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
+    ],
+    "effect": [
+      "Deal 3d8Thunder",
+      "Or Choose to deal 2d8Acid, 2d8Cold, 2d8Fire, 2d8Lightning, 2d8Poison",
+      "Creates a Surface on impact.",
+      " Range: 18 m / 60 ft"
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Chromatic_Orb"
+  },
+  {
+    "name": "Scroll of Colour Spray",
+    "description": "Scroll of Colour Spray is a single-use scroll that allows the user to cast Colour Spray as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/2/20/Scroll_of_Colour_Spray_Faded.png/300px-Scroll_of_Colour_Spray_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
+    ],
+    "effect": [
+      "Inflict Blinded on creatures up to a combined 33 Hit Points.",
+      " Range: Self",
+      " AoE: 5 m / 17 ft (Cone)"
+    ],
+    "condition": [
+      "Blinded  Duration: 1 turn ",
+      "Ranged attacks and spells have a range of  3 m / 10 ft and Attack Rolls suffer  Disadvantage.",
+      "Attack Rolls against Blinded creatures have  Advantage.",
+      "Blinded"
+    ],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Colour_Spray"
+  },
+  {
+    "name": "Scroll of Disguise Self",
+    "description": "Scroll of Disguise Self is a single-use scroll that allows the user to cast Disguise Self as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/0/05/Scroll_of_Disguise_Self_Faded.png/300px-Scroll_of_Disguise_Self_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
+    ],
+    "effect": [
+      "Grants Disguise Self",
+      " Range: Self"
+    ],
+    "condition": [
+      "Disguise Self  Duration: Until Long rest ",
+      "Appearance is entirely changed.",
+      "Polymorphed"
+    ],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Disguise_Self"
+  },
+  {
+    "name": "Scroll of Expeditious Retreat",
+    "description": "Scroll of Expeditious Retreat is a single-use scroll that allows the user to cast Expeditious Retreat as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/9/9d/Scroll_of_Expeditious_Retreat_Faded.png/300px-Scroll_of_Expeditious_Retreat_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
+    ],
+    "effect": [
+      "Grants Expeditious Retreat",
+      " Range: Self"
+    ],
+    "condition": [
+      "Expeditious Retreat  Duration: Until Long rest ",
+      "Dash available as a Bonus Action."
+    ],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Expeditious_Retreat"
+  },
+  {
+    "name": "Scroll of False Life",
+    "description": "Scroll of False Life is a is a single-use scroll that allows the user to cast False Life as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/5/54/Scroll_of_False_Life_Faded.png/300px-Scroll_of_False_Life_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
+    ],
+    "effect": [
+      "Grants False Life",
+      " Range: Self"
+    ],
+    "condition": [
+      "False Life  Duration: Until Long rest ",
+      "Gain 7 + 5 for each spell slot level above the first Temporary Hit Points."
+    ],
+    "link": "https://bg3.wiki/wiki/Scroll_of_False_Life"
+  },
+  {
+    "name": "Scroll of Find Familiar",
+    "description": "Scroll of Find Familiar is a is a single-use scroll that allows the user to cast Find Familiar as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/0/0a/Scroll_of_Find_Familiar_Faded.png/300px-Scroll_of_Find_Familiar_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.05 kg / 0.1 lb ",
+      "  Price:  14  gp  "
+    ],
+    "effect": [
+      "Summons a chosen familiar from the same pool of creatures as the spell Find Familiar."
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Find_Familiar"
+  },
+  {
+    "name": "Scroll of Feather Fall",
+    "description": "Scroll of Feather Fall is a single-use scroll that allows the user to cast Feather Fall as a bonus action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/5/5f/Scroll_of_Feather_Fall_Faded.png/300px-Scroll_of_Feather_Fall_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
+    ],
+    "effect": [
+      "Grants Feather Fall",
+      " Range: Self",
+      " AoE: 9 m / 30 ft (Radius)"
+    ],
+    "condition": [
+      "Feather Fall  Duration: 10 turns Rate of falling is slowed, granting Immunity to Falling damage."
+    ],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Feather_Fall"
+  },
+  {
+    "name": "Scroll of Fog Cloud",
+    "description": "Scroll of Fog Cloud is a single-use scroll that allows the user to cast Fog Cloud as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/3/3f/Scroll_of_Fog_Cloud_Faded.png/300px-Scroll_of_Fog_Cloud_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
+    ],
+    "effect": [
+      "Creates Area: Fog that inflicts Blinded",
+      " Concentration",
+      " Range: 18 m / 60 ft",
+      " AoE: 5 m / 17 ft (Radius)",
+      " Duration: 10 turns"
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Fog_Cloud"
+  },
+  {
+    "name": "Scroll of Goodberry",
+    "description": "Scroll of Goodberry is single-use scroll that allows the user to cast Goodberry as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/1/18/Scroll_of_Goodberry_Faded.png/300px-Scroll_of_Goodberry_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
+    ],
+    "effect": [
+      "Four Goodberries spawn in the targets inventory.",
+      " Melee: 1.5 m / 5 ft"
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Goodberry"
+  },
+  {
+    "name": "Scroll of Grease",
+    "description": "Scroll of Grease is a single-use scroll that allows the user to cast Grease as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/c/cf/Scroll_of_Grease_Faded.png/300px-Scroll_of_Grease_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
+    ],
+    "effect": [
+      "Creates Area: Grease that inflicts Prone",
+      " Range: 18 m / 60 ft",
+      " AoE: 5 m / 17 ft (Radius)",
+      " Duration: 10 turns"
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Grease"
+  },
+  {
+    "name": "Scroll of Ice Knife",
+    "description": "Scroll of Ice Knife is a single-use scroll that allows the user to cast Ice Knife as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/0/02/Scroll_of_Ice_Knife_Faded.png/300px-Scroll_of_Ice_Knife_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
+    ],
+    "effect": [
+      "Deal 1d10Piercing damage.",
+      " Range: 18 m / 60 ft",
+      "Deal 2d6Cold damage.",
+      " AoE: 2 m / 7 ft (Radius)",
+      "Dexterity save to negate",
+      "Create area: Ice Surface.",
+      " AoE: 2 m / 7 ft (Radius)",
+      " Duration: 2 turns",
+      "Inflict Difficult Terrain",
+      "Inflict Prone"
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Ice_Knife"
+  },
+  {
+    "name": "Scroll of Jump",
+    "description": "Scroll of Jump is a single-use scroll that allows the user to cast Enhance Leap as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/a/a1/Scroll_of_Jump_Faded.png/300px-Scroll_of_Jump_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
+    ],
+    "effect": [
+      "Grants Jump",
+      " Melee: 1.5 m / 5 ft"
+    ],
+    "condition": [
+      "Jump  Duration: 10 turns ",
+      "The creature's  Jump distance is tripled for 1 minute."
+    ],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Jump"
+  },
+  {
+    "name": "Scroll of Longstrider",
+    "description": "Scroll of Longstrider is a single-use scroll that allows the user to cast Longstrider as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/0/0b/Scroll_of_Longstrider_Faded.png/300px-Scroll_of_Longstrider_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
+    ],
+    "effect": [
+      "Grants Longstrider",
+      " Melee: 1.5 m / 5 ft"
+    ],
+    "condition": [
+      "Longstrider  Duration: Until Long rest ",
+      "Increase a creature's Movement Speed by  3 m / 10 ft."
+    ],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Longstrider"
+  },
+  {
+    "name": "Scroll of Mage Armour",
+    "description": "Scroll of Mage Armour is a single-use scroll that allows the user to cast Mage Armour as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/3/36/Scroll_of_Mage_Armour_Faded.png/300px-Scroll_of_Mage_Armour_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
+    ],
+    "effect": [
+      "Grants Mage Armour.",
+      " Melee: 1.5 m / 5 ft"
+    ],
+    "condition": [
+      "Mage Armour  Duration: Until Long rest ",
+      "Base  Armour Class is 13."
+    ],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Mage_Armour"
+  },
+  {
+    "name": "Scroll of Magic Missile",
+    "description": "Scroll of Magic Missile is a single-use scroll that allows the user to cast Magic Missile as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/7/7f/Scroll_of_Magic_Missile_Faded.png/300px-Scroll_of_Magic_Missile_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
+    ],
+    "effect": [
+      "Deal 3x1d4+1Force",
+      " Range: 18 m / 60 ft",
+      "Always hits targets"
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Magic_Missile"
+  },
+  {
+    "name": "Scroll of Protection from Evil and Good",
+    "description": "Scroll of Protection from Evil and Good is single-use scroll that allows the user to cast Protection from Evil and Good as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/8/88/Scroll_of_Protection_from_Evil_and_Good_Faded.png/300px-Scroll_of_Protection_from_Evil_and_Good_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
+    ],
+    "effect": [
+      "Grants Protection from Evil and Good",
+      " Concentration",
+      " Melee: 1.5 m / 5 ft"
+    ],
+    "condition": [
+      "Protection from Evil and Good  Duration: Until Long rest The target is protected against Aberrations, Celestials, Elementals, Fey, Fiends, and Undead. These creatures have  Disadvantage on  Attack Rolls against the target, and the target can't be Charmed, Frightened, or Possessed by them."
+    ],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Protection_from_Evil_and_Good"
+  },
+  {
+    "name": "Scroll of Ray of Sickness",
+    "description": "Scroll of Ray of Sickness is a single-use scroll that allows the user to cast Ray of Sickness as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/0/06/Scroll_of_Ray_of_Sickness_Faded.png/300px-Scroll_of_Ray_of_Sickness_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
+    ],
+    "effect": [
+      "Deal 2d8Poison",
+      "Inflicts Poisoned",
+      " Range: 18 m / 60 ft"
+    ],
+    "condition": [
+      "Poisoned  Duration: 2 turns   Constitution saving throw ",
+      "Suffers  Disadvantage on  Attack rolls and Ability Checks.",
+      "Poisoned"
+    ],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Ray_of_Sickness"
+  },
+  {
+    "name": "Scroll of Sleep",
+    "description": "Scroll of Sleep is a single-use scroll that allows the user to cast Sleep as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/3/39/Scroll_of_Sleep_Faded.png/300px-Scroll_of_Sleep_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
+    ],
+    "effect": [
+      "Inflicts Sleeping on targets up to a combined 24 Hit Points.",
+      " Range: 18 m / 60 ft"
+    ],
+    "condition": [
+      "Sleeping  Duration: 2 turns ",
+      "A sleeping creature cannot move or act.",
+      "Moreover, the creature automatically fails Strength and Dexterity  Saving throws.",
+      " Attack rolls against it have  Advantage, and any attack that hits the creature is a Critical Hit if the attacker is within  Range: 1.5 m / 5 ft of the creature.",
+      "Removed by taking damage, receiving Help or being Shoved.",
+      "Unconscious"
+    ],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Sleep"
+  },
+  {
+    "name": "Scroll of Summon Quasit",
+    "description": "Scroll of Summon Quasit is single-use scroll that allows the user to cast  Find Familiar: Cheeky Quasit as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/5/53/Scroll_of_Summon_Quasit_Faded.png/300px-Scroll_of_Summon_Quasit_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  ",
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
+    ],
+    "effect": [
+      "Casts  Find Familiar: Cheeky Quasit on use."
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Summon_Quasit"
+  },
+  {
+    "name": "Scroll of Tasha's Hideous Laughter",
+    "description": "Scroll of Tasha's Hideous Laughter is a single-use scroll that allows the user to cast Tasha's Hideous Laughter as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/9/9f/Scroll_of_Tasha%27s_Hideous_Laughter_Faded.png/300px-Scroll_of_Tasha%27s_Hideous_Laughter_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
+    ],
+    "effect": [
+      "Inflicts Hideous Laughter on a creature of 5 Intelligence or more",
+      " Concentration",
+      " Range: 18 m / 60 ft"
+    ],
+    "condition": [
+      "Hideous Laughter  Duration: 10 turns   Wisdom saving throw ",
+      "Can't move or take  Actions,  Bonus Actions, or  Reactions, and has  Disadvantage on  Strength and Dexterity Saving Throws.",
+      "Attacks against a Prone creature have  Advantage if they're made within  3 m / 10 ft of the creature.",
+      "At the end of its turn or when it takes damage, the entity can try to shake off the effect.",
+      "Prone, Unconscious"
+    ],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Tasha%27s_Hideous_Laughter"
+  },
+  {
+    "name": "Scroll of Thunderwave",
+    "description": "Scroll of Thunderwave is a single-use scroll that allows the user to cast Thunderwave as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/a/af/Scroll_of_Thunderwave_Faded.png/300px-Scroll_of_Thunderwave_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
+    ],
+    "effect": [
+      "Deal 2d8Thunder (Constitution Save to halve)",
+      "Pushes away all creatures and objects",
+      " Melee: 1.5 m / 5 ft",
+      " AoE: 5 m / 17 ft (Cube)"
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Thunderwave"
+  },
+  {
+    "name": "Scroll of Witch Bolt",
+    "description": "A Scroll of Witch Bolt is a single-use scroll that allows the user to cast Witch Bolt as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/2/20/Scroll_of_Witch_Bolt_Faded.png/300px-Scroll_of_Witch_Bolt_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
+    ],
+    "effect": [
+      "Deal 1d12Lightning",
+      "Link yourself to a target with a bolt of lightning. Deal an additional 1d12Lightning each turn by activating it.",
+      " Concentration",
+      " Range: 18 m / 60 ft"
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Witch_Bolt"
+  },
+  {
+    "name": "Scroll of Aid",
+    "description": "Scroll of Aid is a single-use scroll that allows the user to cast Aid as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/a/a0/Scroll_of_Aid_Faded.png/300px-Scroll_of_Aid_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
+    ],
+    "effect": [
+      "Restores 5hit points and grants Aid",
+      " Range: Self",
+      " AoE: 9 m / 30 ft (Radius)"
+    ],
+    "condition": [
+      "Aid  Duration: Until Long rest ",
+      "Hit point maximum increased by 5Hit Points.",
+      "Hit point maximum increases by a further 5Hit Points for every Spell Slot Level above 2 used."
+    ],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Aid"
+  },
+  {
+    "name": "Scroll of Arcane Lock",
+    "description": "Scroll of Arcane Lock is a single-use scroll that allows the user to cast Arcane Lock as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/e/e6/Scroll_of_Arcane_Lock_Faded.png/300px-Scroll_of_Arcane_Lock_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
+    ],
+    "effect": [
+      "Inflicts Arcane Lock on any lockable container or door.",
+      " Melee: 1.5 m / 5 ft"
+    ],
+    "condition": [
+      "Arcane Lock  Duration: 10 turns ",
+      "Locked through magical means. Can't be opened by lockpicking or the use of  Knock."
+    ],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Arcane_Lock"
+  },
+  {
+    "name": "Scroll of Blindness",
+    "description": "Scroll of Blindness is a single-use scroll that allows the user to cast Blindness as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/2/26/Scroll_of_Blindness_Faded.png/300px-Scroll_of_Blindness_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  65  gp  "
+    ],
+    "effect": [
+      "Inflicts Blinded",
+      " Range: 18 m / 60 ft"
+    ],
+    "condition": [
+      "Blinded  Duration: 10 turns   Constitution saving throw ",
+      "Ranged attacks and spells have a range of  3 m / 10 ft and Attack Rolls suffer  Disadvantage.",
+      "Attack Rolls against Blinded creatures have  Advantage.",
+      "Blinded"
+    ],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Blindness"
+  },
+  {
+    "name": "Scroll of Blur",
+    "description": "Scroll of Blur is a single-use scroll that allows the user to cast Blur as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/d/d1/Scroll_of_Blur_Faded.png/300px-Scroll_of_Blur_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  65  gp  "
+    ],
+    "effect": [
+      "Grants Blurred",
+      " Concentration",
+      " Range: Self"
+    ],
+    "condition": [
+      "Blurred  Duration: 10 turns ",
+      "Attackers have  Disadvantage on  Attack Rolls against this creature, unless they do not rely on sight or can see through illusions."
+    ],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Blur"
+  },
+  {
+    "name": "Scroll of Cloud of Daggers",
+    "description": "Scroll of Cloud of Daggers is a single-use scroll that allows the user to cast Cloud of Daggers as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/7/77/Scroll_of_Cloud_of_Daggers_Faded.png/300px-Scroll_of_Cloud_of_Daggers_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  65  gp  "
+    ],
+    "effect": [],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Cloud_of_Daggers"
+  },
+  {
+    "name": "Scroll of Crown of Madness",
+    "description": "Scroll of Crown of Madness is a single-use scroll that allows the user to cast Crown of Madness as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/8/84/Scroll_of_Crown_of_Madness_Faded.png/300px-Scroll_of_Crown_of_Madness_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  65  gp  "
+    ],
+    "effect": [
+      "Inflicts Crown of Madness",
+      " Concentration",
+      " Range: 18 m / 60 ft"
+    ],
+    "condition": [
+      "Crown of Madness  Duration: 3 turns   Wisdom saving throw ",
+      "Instilled with magical madness. Will attack the nearest creature, other than the spellcaster."
+    ],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Crown_of_Madness"
+  },
+  {
+    "name": "Scroll of Darkness",
+    "description": "Scroll of Darkness is a single-use scroll that allows the user to cast Darkness as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/b/b6/Scroll_of_Darkness_Faded.png/300px-Scroll_of_Darkness_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  65  gp  "
+    ],
+    "effect": [
+      "Creates Area: Darkness that inflicts Blinded",
+      " Range: 18 m / 60 ft",
+      "Area: Darkness prevents ranged attacks from and into it",
+      " Concentration",
+      " AoE: 5 m / 17 ft (Radius)",
+      " Duration: 10 turns"
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Darkness"
+  },
+  {
+    "name": "Scroll of Darkvision",
+    "description": "Scroll of Darkvision is a single-use scroll that allows the user to cast Darkvision as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/e/e5/Scroll_of_Darkvision_Faded.png/300px-Scroll_of_Darkvision_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  65  gp  "
+    ],
+    "effect": [
+      "Grants Darkvision",
+      " Melee: 1.5 m / 5 ft"
+    ],
+    "condition": [
+      "Darkvision  Duration: Until Long rest ",
+      "Can see in the dark out to the range of  12 m / 40 ft."
+    ],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Darkvision"
+  },
+  {
+    "name": "Scroll of Detect Thoughts",
+    "description": "Scroll of Detect Thoughts is a single-use scroll that allows the user to cast Detect Thoughts as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/1/16/Scroll_of_Detect_Thoughts_Faded.png/300px-Scroll_of_Detect_Thoughts_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  65  gp  "
+    ],
+    "effect": [
+      "Grants Detect Thoughts",
+      " Concentration",
+      " Range: Self"
+    ],
+    "condition": [
+      "Detect Thoughts  Duration: Until Long rest ",
+      "Can read the thoughts of certain creatures while talking to them."
+    ],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Detect_Thoughts"
+  },
+  {
+    "name": "Scroll of Enlarge",
+    "description": "Scroll of Enlarge is a single-use scroll that allows the user to cast Enlarge as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/b/bf/Scroll_of_Enlarge_Faded.png/300px-Scroll_of_Enlarge_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  65  gp  "
+    ],
+    "effect": [
+      "Grants Enlarged or Reduced. Can be used on enemies against enemy CON saves.",
+      " Concentration",
+      " Range: 9 m / 30 ft"
+    ],
+    "condition": [
+      "Enlarged  Duration: 10 turns   Constitution saving throw ",
+      "Size is increased.",
+      "Weapon attacks deal  1d4 more damage. Has  Advantage on Strength Checks and  Saving Throws."
+    ],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Enlarge"
+  },
+  {
+    "name": "Scroll of Flame Blade",
+    "description": "Scroll of Flame Blade is single-use scroll that allows the user to cast Flame Blade as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/d/d1/Scroll_of_Flame_Blade_Faded.png/300px-Scroll_of_Flame_Blade_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  65  gp  "
+    ],
+    "effect": [
+      "Conjures a Flame Blade in the casters hand.",
+      " Duration: 10 turns"
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Flame_Blade"
+  },
+  {
+    "name": "Scroll of Flaming Sphere",
+    "description": "Scroll of Flaming Sphere is single-use scroll that allows the user to cast Flaming Sphere as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/7/72/Scroll_of_Flaming_Sphere_Faded.png/300px-Scroll_of_Flaming_Sphere_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  65  gp  "
+    ],
+    "effect": [
+      "Summons a Flaming Sphere",
+      " Duration: 10 turns"
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Flaming_Sphere"
+  },
+  {
+    "name": "Scroll of Gust of Wind",
+    "description": "Scroll of Gust of Wind is a single-use scroll that allows the user to cast Gust of Wind as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/0/05/Scroll_of_Gust_of_Wind_Faded.png/300px-Scroll_of_Gust_of_Wind_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
+    ],
+    "effect": [
+      "Summon a strong wind that clears clouds.",
+      " Range: Self",
+      " AoE: 12 m / 40 ft (Line)",
+      "Creatures caught in the blast are pushed back  5 m / 17 ft and are thrown Off Balance.",
+      " Strength saving throw"
+    ],
+    "condition": [
+      "Off Balance  Duration: 1 turn   Strength saving throw ",
+      "The affected entity has  Disadvantage on Strength and Dexterity   Ability Checks, and  Attack Rolls against the entity have  Advantage.",
+      "Removed by taking damage or when  Helped."
+    ],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Gust_of_Wind"
+  },
+  {
+    "name": "Scroll of Hold Person",
+    "description": "Scroll of Hold Person is a single-use scroll that allows the user to cast Hold Person as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/f/fc/Scroll_of_Hold_Person_Faded.png/300px-Scroll_of_Hold_Person_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  65  gp  "
+    ],
+    "effect": [
+      "Inflicts Hold Person",
+      " Concentration",
+      " Range: 18 m / 60 ft"
+    ],
+    "condition": [
+      "Hold Person  Duration: 10 turns   Constitution saving throw ",
+      "Affected entity can't Move or take Actions, Bonus Actions, or Reactions.",
+      "Attacks against the entity have  Advantage.",
+      "Attacks against the entity are always Critical Hits if the attacker is within  Range: 3 m / 10 ft.",
+      "Affected entity automatically fails all Strength and Dexterity  Saving throws.",
+      "At the end of each turn, the affected entity makes a Wisdom  Saving throw. On a successful save, the condition is removed.",
+      "Incapacitated"
+    ],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Hold_Person"
+  },
+  {
+    "name": "Scroll of Invisibility",
+    "description": "Scroll of Invisibility is a single-use scroll that allows the user to cast Invisibility as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/a/ae/Scroll_of_Invisibility_Faded.png/300px-Scroll_of_Invisibility_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  65  gp  "
+    ],
+    "effect": [
+      "Grants Invisible",
+      " Concentration",
+      " Melee: 1.5 m / 5 ft"
+    ],
+    "condition": [
+      "Invisible  Duration: 10 turns ",
+      "Has  Advantage on  Attack Rolls and imposes  Disadvantage on enemy Attack Rolls.",
+      " Invisibility ends early if the invisible entity attacks, casts another spell, takes an action, or takes damage."
+    ],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Invisibility"
+  },
+  {
+    "name": "Scroll of Knock",
+    "description": "Scroll of Ray of Knock is a single-use scroll that allows the user to cast Knock as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/c/c1/Scroll_of_Knock_Faded.png/300px-Scroll_of_Knock_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity:   ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  100  gp  "
+    ],
+    "effect": [
+      "Unlocks an object that is held shut by a mundane lock.",
+      " Range: 18 m / 60 ft"
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Knock"
+  },
+  {
+    "name": "Scroll of Magic Weapon",
+    "description": "Scroll of Magic Weapon is a single-use scroll that allows the user to cast Magic Weapon as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/6/6e/Scroll_of_Magic_Weapon_Faded.png/300px-Scroll_of_Magic_Weapon_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  65  gp  "
+    ],
+    "effect": [
+      "Grants Magic Weapon to the currently equipped weapon.",
+      " Melee: 1.5 m / 5 ft"
+    ],
+    "condition": [
+      "Magic Weapon  Duration: Until Long rest ",
+      "Weapon has become magical, receiving a +1 bonus to  Attack Rolls and Damage Rolls."
+    ],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Magic_Weapon"
+  },
+  {
+    "name": "Scroll of Melf's Acid Arrow",
+    "description": "Scroll of Melf's Acid Arrow is a single-use scroll that allows the user to cast Melf's Acid Arrow as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/1/1d/Scroll_of_Melf%27s_Acid_Arrow_Faded.png/300px-Scroll_of_Melf%27s_Acid_Arrow_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
+    ],
+    "effect": [
+      "Deals 4d4Acid damage.",
+      " Range: 18 m / 60 ft",
+      "Inflicts Melf's Acid Arrow",
+      "Create area: Acid Surface.",
+      " AoE: 2 m / 7 ft (Radius)",
+      " Duration: 2 turns",
+      "Inflicts Acid"
+    ],
+    "condition": [
+      "Melf's Acid Arrow  Duration: 1 turn ",
+      "Affected entity takes 2d4Acid damage at the end of their turn."
+    ],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Melf%27s_Acid_Arrow"
+  },
+  {
+    "name": "Scroll of Mirror Image",
+    "description": "Scroll of Mirror Image is a single-use scroll that allows the user to cast Mirror Image as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/a/a3/Scroll_of_Mirror_Image_Faded.png/300px-Scroll_of_Mirror_Image_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  65  gp  "
+    ],
+    "effect": [
+      "Grants Mirror Image",
+      " Range: Self"
+    ],
+    "condition": [
+      "Mirror Image  Duration: 10 turns ",
+      "The mirror image distracts attackers, increasing the spellcaster's  Armour Class by 3. When the caster successfully evades an attack, one of the images disappears."
+    ],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Mirror_Image"
+  },
+  {
+    "name": "Scroll of Misty Step",
+    "description": "Scroll of Misty Step is a single-use scroll that allows the user to cast Misty Step as a bonus action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/5/58/Scroll_of_Misty_Step_Faded.png/300px-Scroll_of_Misty_Step_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  65  gp  "
+    ],
+    "effect": [
+      "Move to a visible unoccupied space without triggering reactions",
+      " Range: 18 m / 60 ft"
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Misty_Step"
+  },
+  {
+    "name": "Scroll of Phantasmal Force",
+    "description": "Scroll of Phantasmal Force is a single-use scroll that allows the user to cast Phantasmal Force as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/9/90/Scroll_of_Phantasmal_Force_Faded.png/300px-Scroll_of_Phantasmal_Force_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  65  gp  "
+    ],
+    "effect": [
+      "Inflicts Phantasmal Force",
+      " Range: 18 m / 60 ft",
+      " Concentration"
+    ],
+    "condition": [
+      "Phantasmal Force  Duration: 10 turns   Wisdom saving throw Haunted by an echo of the last thing that attacked them.",
+      "Takes 1d6Psychic damage each turn.",
+      "When the target takes damage from another source, Phantasmal Force changes to that damage type.",
+      "At the end of each turn, the target makes an  Intelligence saving throw. On a success, the condition ends."
+    ],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Phantasmal_Force"
+  },
+  {
+    "name": "Scroll of Ray of Enfeeblement",
+    "description": "Scroll of Ray of Enfeeblement is a single-use scroll that allows the user to cast Ray of Enfeeblement as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/8/86/Scroll_of_Ray_of_Enfeeblement_Faded.png/300px-Scroll_of_Ray_of_Enfeeblement_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
+    ],
+    "effect": [
+      "Inflicts Feeble",
+      " Concentration",
+      " Range: 18 m / 60 ft"
+    ],
+    "condition": [
+      "Feeble  Duration: 10 turns   Constitution saving throw ",
+      "Deal only half damage with weapon attacks that use Strength."
+    ],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Ray_of_Enfeeblement"
+  },
+  {
+    "name": "Scroll of Scorching Ray",
+    "description": "Scroll of Scorching Ray is a single-use scroll that allows the user to cast Scorching Ray as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/e/e2/Scroll_of_Scorching_Ray_Faded.png/300px-Scroll_of_Scorching_Ray_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
+    ],
+    "effect": [
+      "Deal 3x2d6Fire",
+      " Range: 18 m / 60 ft"
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Scorching_Ray"
+  },
+  {
+    "name": "Scroll of See Invisibility",
+    "description": "Scroll of See Invisibility is a single-use scroll that allows the user to cast See Invisibility as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/2/2a/Scroll_of_See_Invisibility_Faded.png/300px-Scroll_of_See_Invisibility_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  65  gp  "
+    ],
+    "effect": [
+      "Grants See Invisibility",
+      " Range: Self",
+      " AoE: 9 m / 30 ft (Radius)"
+    ],
+    "condition": [
+      "See Invisibility  Duration: Until Long rest ",
+      "Can see Invisible creatures within  9 m / 30 ft.",
+      "Creatures must succeed a Dexterity  Saving Throw or lose their Invisibility."
+    ],
+    "link": "https://bg3.wiki/wiki/Scroll_of_See_Invisibility"
+  },
+  {
+    "name": "Scroll of Shatter",
+    "description": "Scroll of Shatter is a single-use scroll that allows the user to cast Shatter as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/f/fd/Scroll_of_Shatter_Faded.png/300px-Scroll_of_Shatter_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  65  gp  "
+    ],
+    "effect": [
+      "Deal 3d8Thunder (Constitution Save to halve)",
+      "Things made out of inorganic material have  Disadvantage",
+      " Range: 18 m / 60 ft",
+      " AoE: 3 m / 10 ft (Radius)"
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Shatter"
+  },
+  {
+    "name": "Scroll of Web",
+    "description": "Scroll of Web is a single-use scroll that allows the user to cast Web as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/f/f9/Scroll_of_Web_Faded.png/300px-Scroll_of_Web_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  65  gp  "
+    ],
+    "effect": [
+      "Creates Area:Web that can inflict Enwebbed",
+      " Concentration",
+      " Range: 18 m / 60 ft",
+      " AoE: 4 m / 13 ft (Radius)",
+      " Duration: 10 turns"
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Web"
+  },
+  {
+    "name": "Scroll of Animate Dead",
+    "description": "Scroll of Animate Dead is a single-use scroll that allows the user to cast Animate Dead as an action.\n",
+    "image": "https://bg3.wiki/w/images/e/e9/Scroll_of_Animate_Dead_Unfaded_Icon.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  100  gp  "
+    ],
+    "effect": [
+      "Creates a level 3 Skeleton or a Zombie out of a corpse."
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Animate_Dead"
+  },
+  {
+    "name": "Scroll of Bestow Curse",
+    "description": "Scroll of Bestow Curse is a single-use scroll that allows the user to cast Bestow Curse as an action.\n",
+    "image": "https://bg3.wiki/w/images/1/16/Scroll_of_Bestow_Curse_Unfaded_Icon.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  100  gp  "
+    ],
+    "effect": [
+      "Inflicts any of the chosen conditions from  Bestow Curse spell.",
+      " Melee: 1.5 m / 5 ft"
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Bestow_Curse"
+  },
+  {
+    "name": "Scroll of Blink",
+    "description": "Scroll of Blink is a single-use scroll that allows the user to cast Blink as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/f/fd/Scroll_of_Blink_Faded.png/300px-Scroll_of_Blink_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  100  gp  "
+    ],
+    "effect": [
+      "Grants Blink",
+      " Range: Self"
+    ],
+    "condition": [
+      "Blink  Duration: 10 turns ",
+      "At the end of each turn, there is a chance the affected entity gets  Blinked to the Ethereal Plane   , where it can't be harmed, seen or affected.",
+      "While in the Ethereal Plane, the entity can't move or interact with anything in the world. It can only choose to teleport up to  6 m / 20 ft. When combat ends, so does this effect.",
+      "Grants:",
+      "",
+      " Dismiss Blink"
+    ],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Blink"
+  },
+  {
+    "name": "Scroll of Fear",
+    "description": "Scroll of Fear is a single-use scroll that allows the user to cast Fear as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/8/85/Scroll_of_Fear_Faded.png/300px-Scroll_of_Fear_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  100  gp  "
+    ],
+    "effect": [
+      "Inflicts Fearful and makes the target drop their weapon",
+      " Range: 9 m / 30 ft",
+      " Concentration"
+    ],
+    "condition": [
+      "Fearful  Duration: 2 turns   Wisdom saving throw ",
+      "Has  Disadvantage on Ability Checks and  Attack Rolls.",
+      "Targets can make a  Saving Throw to shake off this effect if they end their turn out of sight from their source of fear.",
+      "Frightened"
+    ],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Fear"
+  },
+  {
+    "name": "Scroll of Feign Death",
+    "description": "Scroll of Feign Death is a single-use scroll that allows the user to cast Feign Death as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/9/9c/Scroll_of_Feign_Death_Faded.png/300px-Scroll_of_Feign_Death_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  100  gp  "
+    ],
+    "effect": [
+      "Grants Feigning Death",
+      " Melee: 1.5 m / 5 ft"
+    ],
+    "condition": [
+      "Feigning Death  Duration: 10 turns ",
+      "Has sunk into a magical coma deep enough to imitate death",
+      "Resistant to all damage except  Psychic damage, and Disease and Poison no longer have any effect",
+      "Removed when Helped",
+      "Incapacitated"
+    ],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Feign_Death"
+  },
+  {
+    "name": "Scroll of Fireball",
+    "description": "Scroll of Fireball is a single-use scroll that allows the user to cast Fireball as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/2/28/Scroll_of_Fireball_Faded.png/300px-Scroll_of_Fireball_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  100  gp  "
+    ],
+    "effect": [
+      "Deals 8d6Fire to creatures in a radius.",
+      " Range: 18 m / 60 ft",
+      " AoE: 4 m / 13 ft (Radius)",
+      " Strength saving throw to halve the damage."
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Fireball"
+  },
+  {
+    "name": "Scroll of Fly",
+    "description": "Scroll of Fly is a single-use scroll that allows the user to cast Grant Flight as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/5/50/Scroll_of_Fly_Faded.png/300px-Scroll_of_Fly_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  100  gp  "
+    ],
+    "effect": [
+      "Grants Flight",
+      " Concentration",
+      " Melee: 1.5 m / 5 ft"
+    ],
+    "condition": [
+      "Flight  Duration: 10 turns ",
+      "Fly up to target position, up to  18 m / 60 ft each turn using your Movement Speed."
+    ],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Fly"
+  },
+  {
+    "name": "Scroll of Gaseous Form",
+    "description": "Scroll of Gaseous Form is a single-use scroll that allows the user to cast Gaseous Form as an action.\n",
+    "image": "https://bg3.wiki/w/images/6/6f/Scroll_of_Gaseous_Form_Unfaded_Icon.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  100  gp  "
+    ],
+    "effect": [
+      "Grants Gaseous Form",
+      " Melee: 1.5 m / 5 ft"
+    ],
+    "condition": [
+      "Gaseous Form  Duration: Until Long rest ",
+      "Transformed into a cloud of mist.",
+      "Resistant to all damage.",
+      "Has  Advantage on Constitution, Dexterity, and Strength  Saving Throws.",
+      "Becomes Tiny in size.",
+      "Cannot attack, cast spells, or speak.",
+      "The target's Strength and Dexterity scores are set to 10 while in this form."
+    ],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Gaseous_Form"
+  },
+  {
+    "name": "Scroll of Glyph of Warding",
+    "description": "Scroll of Glyph of Warding is a single-use scroll that allows the user to cast Glyph of Warding as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/0/0c/Scroll_of_Glyph_of_Warding_Faded.png/300px-Scroll_of_Glyph_of_Warding_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  100  gp  "
+    ],
+    "effect": [
+      "Puts down a glyph chosen from the  Glyph of Warding spells list.",
+      " Range: 9 m / 30 ft",
+      " Dexterity saving throw"
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Glyph_of_Warding"
+  },
+  {
+    "name": "Scroll of Haste",
+    "description": "Scroll of Haste is a single-use scroll that allows the user to cast Haste as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/d/d5/Scroll_of_Haste_Faded.png/300px-Scroll_of_Haste_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  100  gp  "
+    ],
+    "effect": [
+      "Grants Hastened",
+      " Range: 9 m / 30 ft",
+      " Concentration"
+    ],
+    "condition": [
+      "Hastened  Duration: 10 turns ",
+      "Target gains +2 to  Armour Class and  Advantage on Dexterity  Saving throws.",
+      "Target's Movement Speed is doubled.",
+      "Target gains an additional  Action.",
+      "When the condition ends, target becomes Lethargic and is unable to move or take Actions for 1 turn."
+    ],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Haste"
+  },
+  {
+    "name": "Scroll of Hypnotic Pattern",
+    "description": "Scroll of Hypnotic Pattern is a single-use scroll that allows the user to cast Hypnotic Pattern as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/c/cc/Scroll_of_Hypnotic_Pattern_Faded.png/300px-Scroll_of_Hypnotic_Pattern_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  100  gp  "
+    ],
+    "effect": [
+      "Inflicts Hypnotised",
+      " Range: 18 m / 60 ft",
+      " Concentration"
+    ],
+    "condition": [
+      "Hypnotised  Duration: 2 turns  Spellcasting DC  Wisdom saving throw ",
+      "Can't Move or take Actions, Bonus Actions, or Reactions.",
+      "Removed by taking damage, being Shoved, or Helped.",
+      "Charmed, Incapacitated"
+    ],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Hypnotic_Pattern"
+  },
+  {
+    "name": "Scroll of Lightning Bolt",
+    "description": "Scroll of Lightning Bolt is a single-use scroll that allows the user to cast Lightning Bolt as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/7/77/Scroll_of_Lightning_Bolt_Faded.png/300px-Scroll_of_Lightning_Bolt_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  100  gp  "
+    ],
+    "effect": [
+      "Deals 8d6Lightning damage in a line.",
+      " Range: Self",
+      " AoE: 30 m / 100 ft (Line)",
+      " Dexterity saving throw to halve the damage."
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Lightning_Bolt"
+  },
+  {
+    "name": "Scroll of Protection from Energy",
+    "description": "Scroll of Protection from Energy is a single-use scroll that allows the user to cast Protection from Energy as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/7/70/Scroll_of_Protection_from_Energy_Faded.png/300px-Scroll_of_Protection_from_Energy_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  100  gp  "
+    ],
+    "effect": [
+      "Grants Resistance to  Acid,  Cold,  Fire,  Lightning, or  Thunder damage.",
+      " Melee: 1.5 m / 5 ft",
+      " Concentration",
+      " Duration: Until Long rest"
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Protection_from_Energy"
+  },
+  {
+    "name": "Scroll of Remove Curse",
+    "description": "Scroll of Remove Curse is a single-use scroll that allows the user to cast Remove Curse as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/3/35/Scroll_of_Remove_Curse_Faded.png/300px-Scroll_of_Remove_Curse_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  100  gp  "
+    ],
+    "effect": [
+      "Remove any Cursed and  Hex conditions."
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Remove_Curse"
+  },
+  {
+    "name": "Scroll of Revivify",
+    "description": "Scroll of Revivify is single-use scroll that casts Revivify and raises a companion from death. Does not work on non-companion NPCs.\n",
+    "image": "https://bg3.wiki/w/images/thumb/d/de/Scroll_of_Revivify_Faded.png/300px-Scroll_of_Revivify_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  100  gp  "
+    ],
+    "effect": [
+      "Revives a Companion with 1 hit point.",
+      " Range: 9 m / 30 ft"
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Revivify"
+  },
+  {
+    "name": "Scroll of Sleet Storm",
+    "description": "Scroll of Sleet Storm is a single-use scroll that allows the user to cast Sleet Storm as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/7/70/Scroll_of_Sleet_Storm_Faded.png/300px-Scroll_of_Sleet_Storm_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  100  gp  "
+    ],
+    "effect": [
+      "",
+      " Range: 18 m / 60 ft",
+      " Concentration"
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Sleet_Storm"
+  },
+  {
+    "name": "Scroll of Slow",
+    "description": "Scroll of Slow is a single-use scroll that allows the user to cast Slow as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/4/42/Scroll_of_Slow_Faded.png/300px-Scroll_of_Slow_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  100  gp  "
+    ],
+    "effect": [
+      "Inflicts Slowed up to 6 targets.",
+      " Range: 18 m / 60 ft",
+      " Concentration"
+    ],
+    "condition": [
+      "Slowed  Duration: 10 turns   Wisdom saving throw ",
+      "Movement Speed is halved",
+      " Armour Class and Dexterity  Saving throws are reduced by 2",
+      "Can only take an Action or a Bonus Action, not both",
+      "Cannot take Reactions",
+      "Cannot make more than 1 attack per turn",
+      "Spells cast might be delayed for one turn"
+    ],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Slow"
+  },
+  {
+    "name": "Scroll of Speak with Dead",
+    "description": "Scroll of Speak with Dead is a single-use scroll that allows the user to cast Speak with Dead as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/8/86/Scroll_of_Speak_With_Dead_Faded.png/300px-Scroll_of_Speak_With_Dead_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  65  gp  "
+    ],
+    "effect": [
+      "Casts  Speak with Dead.",
+      " Range: 18 m / 60 ft",
+      "Grants the ability to recast  Speak with Dead.",
+      " Range: 18 m / 60 ft",
+      " Duration: Until Long rest"
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Speak_with_Dead"
+  },
+  {
+    "name": "Scroll of Stinking Cloud",
+    "description": "Scroll of Stinking Cloud is a single-use scroll that allows the user to cast Stinking Cloud as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/b/bd/Scroll_of_Stinking_Cloud_Faded.png/300px-Scroll_of_Stinking_Cloud_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  100  gp  "
+    ],
+    "effect": [
+      "Found in a buried chest in Rivington, inside a barn X: 37 Y: -149"
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Stinking_Cloud"
+  },
+  {
+    "name": "Scroll of Vampiric Touch",
+    "description": "Scroll of Vampiric Touch is a single-use scroll that allows the user to cast Vampiric Touch as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/0/02/Scroll_of_Vampiric_Touch_Faded.png/300px-Scroll_of_Vampiric_Touch_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  100  gp  "
+    ],
+    "effect": [
+      "Deal 3d6Necrotic",
+      "Heals the user for half of the damage dealt",
+      " Concentration",
+      " Melee: 1.5 m / 5 ft",
+      "Grants Vampiric Touch"
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Vampiric_Touch"
+  },
+  {
+    "name": "Scroll of Banishment",
+    "description": "A Scroll of Banishment is a single-use scroll that allows the user to cast Banishment as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/4/4f/Scroll_of_Banishment_Faded.png/300px-Scroll_of_Banishment_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  180  gp  "
+    ],
+    "effect": [],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Banishment"
+  },
+  {
+    "name": "Scroll of Blight",
+    "description": "A Scroll of Blight is a single-use scroll that allows the user to cast Blight as an action.\n",
+    "image": "",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  180  gp  "
+    ],
+    "effect": [],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Blight"
+  },
+  {
+    "name": "Scroll of Confusion",
+    "description": "A Scroll of Confusion is a single-use scroll that allows the user to cast Confusion as an action.\n",
+    "image": "",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  180  gp  "
+    ],
+    "effect": [],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Confusion"
+  },
+  {
+    "name": "Scroll of Conjure Minor Elemental",
+    "description": "A Scroll of Conjure Minor Elemental is a single-use scroll that allows the user to cast Conjure Minor Elemental as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/1/1a/Scroll_of_Conjure_Minor_Elemental_Faded.png/300px-Scroll_of_Conjure_Minor_Elemental_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  180  gp  "
+    ],
+    "effect": [
+      "Casts Conjure Minor Elemental on use."
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Conjure_Minor_Elemental"
+  },
+  {
+    "name": "Scroll of Dimension Door",
+    "description": "Scroll of Dimension Door is a Scroll that allows the user to cast Dimension Door as an action.\n",
+    "image": "https://bg3.wiki/w/images/3/30/Scroll_of_Dimension_Door_Unfaded_Icon.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  100  gp  "
+    ],
+    "effect": [
+      "Teleport yourself and up to one adjacent ally to a place you can see. The ally cannot be larger than Medium.",
+      " Melee: 1.5 m / 5 ft Caster distance to ally.",
+      " Range: 30 m / 98 ft Teleportation distance."
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Dimension_Door"
+  },
+  {
+    "name": "Scroll of Evard's Black Tentacles",
+    "description": "Scroll of Evard's Black Tentacles is a single-use scroll that allows the user to cast Evard's Black Tentacles as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/6/67/SCROLL_Evard%27s_Black_Tentacles_Faded.png/300px-SCROLL_Evard%27s_Black_Tentacles_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  180  gp  "
+    ],
+    "effect": [
+      "Deal 3d6Bludgeoning (Strength Save to negate)",
+      " Concentration",
+      " Range: 18 m / 60 ft",
+      " AoE: 6 m / 20 ft (Radius)",
+      "Creates Area: Evard's Black Tentacles that inflicts Difficult Terrain",
+      " Duration: 10 turns"
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Evard%27s_Black_Tentacles"
+  },
+  {
+    "name": "Scroll of Fire Shield",
+    "description": "A Scroll of Fire Shield is a single-use scroll that allows the user to cast Fire Shield as an action.\n",
+    "image": "",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  180  gp  "
+    ],
+    "effect": [],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Fire_Shield"
+  },
+  {
+    "name": "Scroll of Greater Invisibility",
+    "description": "A Scroll of Greater Invisibility is a single-use scroll that allows the user to cast Greater Invisibility as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/6/6e/Scroll_of_Greater_Invisibility_Faded.png/300px-Scroll_of_Greater_Invisibility_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  180  gp  "
+    ],
+    "effect": [],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Greater_Invisibility"
+  },
+  {
+    "name": "Scroll of Ice Storm",
+    "description": "A Scroll of Ice Storm is a single-use scroll that allows the user to cast Ice Storm as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/9/96/Scroll_of_Ice_Storm_Faded.png/300px-Scroll_of_Ice_Storm_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  180  gp  "
+    ],
+    "effect": [],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Ice_Storm"
+  },
+  {
+    "name": "Scroll of Otiluke's Resilient Sphere",
+    "description": "A Scroll of Otiluke's Resilient Sphere is a single-use scroll that allows the user to cast Otiluke's Resilient Sphere as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/d/d1/Scroll_of_Otiluke%27s_Resilient_Sphere_Faded.png/300px-Scroll_of_Otiluke%27s_Resilient_Sphere_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  180  gp  "
+    ],
+    "effect": [],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Otiluke%27s_Resilient_Sphere"
+  },
+  {
+    "name": "Scroll of Phantasmal Killer",
+    "description": "A Scroll of Phantasmal Killer is a single-use scroll that allows the user to cast Phantasmal Killer as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/c/c6/Scroll_of_Phantasmal_Killer_Faded.png/300px-Scroll_of_Phantasmal_Killer_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  180  gp  "
+    ],
+    "effect": [],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Phantasmal_Killer"
+  },
+  {
+    "name": "Scroll of Polymorph",
+    "description": "A Scroll of Polymorph is a single-use scroll that allows the user to cast Polymorph as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/f/f9/Scroll_of_Polymorph_Faded.png/300px-Scroll_of_Polymorph_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  180  gp  "
+    ],
+    "effect": [],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Polymorph"
+  },
+  {
+    "name": "Scroll of Stoneskin",
+    "description": "A Scroll of Stoneskin is a single-use scroll that allows the user to cast Stoneskin as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/f/f8/Scroll_of_Stoneskin_Faded.png/300px-Scroll_of_Stoneskin_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  180  gp  "
+    ],
+    "effect": [],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Stoneskin"
+  },
+  {
+    "name": "Scroll of Wall of Fire",
+    "description": "A Scroll of Wall of Fire is a single-use scroll that allows the user to cast Wall of Fire as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/6/68/Scroll_of_Wall_of_Fire_Faded.png/300px-Scroll_of_Wall_of_Fire_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  180  gp  "
+    ],
+    "effect": [],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Wall_of_Fire"
+  },
+  {
+    "name": "Scroll of Artistry of War",
+    "description": "Scroll of  Artistry of War is a single-use scroll that casts Artistry of War.\n",
+    "image": "https://bg3.wiki/w/images/thumb/7/7c/Scroll_of_Artistry_of_War_Faded.png/300px-Scroll_of_Artistry_of_War_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Very Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  180  gp  "
+    ],
+    "effect": [
+      "Cast  Artistry of War.",
+      " Range: 18 m / 60 ft"
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Artistry_of_War"
+  },
+  {
+    "name": "Scroll of Bestial Communion",
+    "description": "Scroll of Bestial Communion is a single-use scroll that casts Sights of the Seelie: Summon Deva.\n",
+    "image": "https://bg3.wiki/w/images/thumb/f/ff/Scroll_of_Bestial_Communion_Faded.png/300px-Scroll_of_Bestial_Communion_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Very Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  180  gp  "
+    ],
+    "effect": [
+      "Cast  Sights of the Seelie: Summon Deva."
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Bestial_Communion"
+  },
+  {
+    "name": "Scroll of Cloudkill",
+    "description": "Scroll of Cloudkill is a single-use scroll that allows the user to cast Cloudkill.\n",
+    "image": "https://bg3.wiki/w/images/thumb/f/f3/Scroll_of_Cloudkill_Faded.png/300px-Scroll_of_Cloudkill_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Very Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  400  gp  "
+    ],
+    "effect": [
+      "Creates Area: Cloudkill that deals 5d8Poison (Constitution Save to halve) to creatures starting their turns in it",
+      "The cloud can be repositioned by using an Action",
+      " Concentration",
+      " Range: 18 m / 60 ft",
+      " AoE: 6 m / 20 ft (Radius)",
+      " Duration: 10 turns"
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Cloudkill"
+  },
+  {
+    "name": "Scroll of Cone of Cold",
+    "description": "A Scroll of Cone of Cold is a single-use scroll that allows the user to cast Cone of Cold as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/8/88/Scroll_of_Cone_of_Cold_Faded.png/300px-Scroll_of_Cone_of_Cold_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Very Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  400  gp  "
+    ],
+    "effect": [],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Cone_of_Cold"
+  },
+  {
+    "name": "Scroll of Conjure Elemental",
+    "description": "A Scroll of Conjure Elemental is a single-use scroll that allows the user to cast Conjure Elemental as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/e/ed/Scroll_of_Conjure_Elemental_Faded.png/300px-Scroll_of_Conjure_Elemental_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Very Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  400  gp  "
+    ],
+    "effect": [
+      "Casts Conjure Elemental on use."
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Conjure_Elemental"
+  },
+  {
+    "name": "Scroll of Dethrone",
+    "description": "A Scroll of Dethrone is single-use scroll that casts Dethrone.\n",
+    "image": "https://bg3.wiki/w/images/thumb/2/20/Scroll_of_Dethrone_Faded.png/300px-Scroll_of_Dethrone_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Very Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  180  gp  "
+    ],
+    "effect": [
+      "Cast  Dethrone."
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Dethrone"
+  },
+  {
+    "name": "Scroll of Dominate Person",
+    "description": "A Scroll of Dominate Person is a single-use scroll that allows the user to cast Dominate Person as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/6/62/Scroll_of_Dominate_Person_Faded.png/300px-Scroll_of_Dominate_Person_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Very Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  600  gp  "
+    ],
+    "effect": [],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Dominate_Person"
+  },
+  {
+    "name": "Scroll of Hold Monster",
+    "description": "A Scroll of Hold Monster is a single-use scroll that allows the user to cast Hold Monster as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/6/67/Scroll_of_Hold_Monster_Faded.png/300px-Scroll_of_Hold_Monster_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Very Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  600  gp  "
+    ],
+    "effect": [],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Hold_Monster"
+  },
+  {
+    "name": "Scroll of Planar Binding",
+    "description": "A Scroll of Planar Binding is a single-use scroll that allows the user to cast Planar Binding as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/1/16/Scroll_of_Planar_Binding_Faded.png/300px-Scroll_of_Planar_Binding_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Very Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  400  gp  "
+    ],
+    "effect": [
+      "Inflicts Seized by Planar Binding.",
+      " Concentration",
+      " Range: 18 m / 60 ft"
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Planar_Binding"
+  },
+  {
+    "name": "Scroll of Seeming",
+    "description": "A Scroll of Seeming is a single-use scroll that allows the user to cast Seeming as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/d/d4/Scroll_of_Seeming_Faded.png/300px-Scroll_of_Seeming_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Very Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  400  gp  "
+    ],
+    "effect": [],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Seeming"
+  },
+  {
+    "name": "Scroll of Telekinesis",
+    "description": "A Scroll of Telekinesis is a single-use scroll that allows the user to cast Telekinesis as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/7/7c/Scroll_of_Telekinesis_Faded.png/300px-Scroll_of_Telekinesis_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Very Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  600  gp  "
+    ],
+    "effect": [],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Telekinesis"
+  },
+  {
+    "name": "Scroll of Wall of Stone",
+    "description": "A Scroll of Wall of Stone is a single-use scroll that allows the user to cast Wall of Stone as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/7/7c/Scroll_of_Wall_of_Stone_Faded.png/300px-Scroll_of_Wall_of_Stone_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Very Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  600  gp  "
+    ],
+    "effect": [],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Wall_of_Stone"
+  },
+  {
+    "name": "Scroll of Disintegrate",
+    "description": "A Scroll of Disintegrate is a single-use scroll that allows the user to cast Disintegrate as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/7/7a/Scroll_of_Disintegrate_Faded.png/300px-Scroll_of_Disintegrate_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Very Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  600  gp  "
+    ],
+    "effect": [],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Disintegrate"
+  },
+  {
+    "name": "Scroll of Circle of Death",
+    "description": "Scroll of Circle of Death is a single-use scroll that allows the user to cast Circle of Death as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/9/90/Scroll_of_Circle_of_Death_Faded.png/300px-Scroll_of_Circle_of_Death_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Very Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  600  gp  "
+    ],
+    "effect": [
+      "Deal 8d6Necrotic",
+      " Range: 18 m / 60 ft",
+      " AoE: 9 m / 30 ft (Radius)"
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Circle_of_Death"
+  },
+  {
+    "name": "Scroll of Chain Lightning",
+    "description": "A Scroll of Chain Lightning is a single-use scroll that allows the user to cast Chain Lightning as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/a/a0/Scroll_of_Chain_Lightning_Faded.png/300px-Scroll_of_Chain_Lightning_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Very Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  600  gp  "
+    ],
+    "effect": [],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Chain_Lightning"
+  },
+  {
+    "name": "Scroll of Eyebite",
+    "description": "A Scroll of Eyebite is a single-use scroll that allows the user to cast Eyebite as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/2/2d/Scroll_of_Eyebite_Faded.png/300px-Scroll_of_Eyebite_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Very Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  600  gp  "
+    ],
+    "effect": [
+      "Inflict one of the following:FearedPoisonedSleeping",
+      " Concentration",
+      " Range: 18 m / 60 ft",
+      "Can be recast for  Duration: 10 turns"
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Eyebite"
+  },
+  {
+    "name": "Scroll of Flesh to Stone",
+    "description": "A Scroll of Flesh to Stone is a single-use scroll that allows the user to cast Flesh to Stone as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/f/fd/Scroll_of_Flesh_to_Stone_Faded.png/300px-Scroll_of_Flesh_to_Stone_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Very Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  600  gp  "
+    ],
+    "effect": [],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Flesh_to_Stone"
+  },
+  {
+    "name": "Scroll of Globe of Invulnerability",
+    "description": "A Scroll of Globe of Invulnerability is a single-use scroll that allows the user to cast Globe of Invulnerability as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/a/a9/Scroll_of_Globe_of_Invulnerability_Faded.png/300px-Scroll_of_Globe_of_Invulnerability_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Very Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  600  gp  "
+    ],
+    "effect": [],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Globe_of_Invulnerability"
+  },
+  {
+    "name": "Scroll of Otiluke's Freezing Sphere",
+    "description": "A Scroll of Otiluke's Freezing Sphere is a single-use scroll that allows the user to cast Otiluke's Freezing Sphere as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/1/12/Scroll_of_Otiluke%27s_Freezing_Sphere_Faded.png/300px-Scroll_of_Otiluke%27s_Freezing_Sphere_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Very Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  600  gp  "
+    ],
+    "effect": [],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Otiluke%27s_Freezing_Sphere"
+  },
+  {
+    "name": "Scroll of Otto's Irresistible Dance",
+    "description": "A Scroll of Otto's Irresistible Dance is a single-use scroll that allows the user to cast Otto's Irresistible Dance as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/1/1e/Scroll_of_Otto%27s_Irresistible_Dance_Faded.png/300px-Scroll_of_Otto%27s_Irresistible_Dance_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Very Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  600  gp  "
+    ],
+    "effect": [],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Otto%27s_Irresistible_Dance"
+  },
+  {
+    "name": "Scroll of Sunbeam",
+    "description": "A Scroll of Sunbeam is a single-use scroll that allows the user to cast Sunbeam as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/1/10/Scroll_of_Sunbeam_Faded.png/300px-Scroll_of_Sunbeam_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Very Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  600  gp  "
+    ],
+    "effect": [
+      "Found in a buried chest in Rivington, outside a nearby barn X: 34 Y: -139"
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Sunbeam"
+  },
+  {
+    "name": "Scroll of Wall of Ice",
+    "description": "A Scroll of Wall of Ice is a single-use scroll that allows the user to cast Wall of Ice as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/0/0f/Scroll_of_Wall_of_Ice_Faded.png/300px-Scroll_of_Wall_of_Ice_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Very Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  600  gp  "
+    ],
+    "effect": [],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Wall_of_Ice"
+  },
+  {
+    "name": "Scroll of Arcane Eye",
+    "description": "Scroll of Arcane Eye is a single-use scroll that allows the user to Summon a friendly Scrying Eye.\n",
+    "image": "https://bg3.wiki/w/images/thumb/a/af/Scroll_of_Arcane_Eye_Faded.png/300px-Scroll_of_Arcane_Eye_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  130  gp  "
+    ],
+    "effect": [
+      "Summon a friendly Scrying Eye for  Duration: 99 turns"
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Arcane_Eye"
+  },
+  {
+    "name": "Scroll of Counterspell",
+    "description": "Scroll of Counterspell is a single-use scroll that allows the user to cast Counterspell as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/b/b2/Scroll_of_Counterspell_Faded.png/300px-Scroll_of_Counterspell_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  100  gp  "
+    ],
+    "effect": [
+      "Nullifies another creature's spell as a reaction.",
+      " Range: 18 m / 60 ft"
+    ],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Counterspell"
+  },
+  {
+    "name": "Scroll of Resistance",
+    "description": "Scroll of Resistance is single-use scroll that allows the user to cast Resistance as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/3/37/Scroll_of_Resistance_Faded.png/300px-Scroll_of_Resistance_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  ???  gp  "
+    ],
+    "effect": [],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Resistance"
+  },
+  {
+    "name": "Scroll of Armour of Agathys",
+    "description": "Scroll of Armour of Agathys is a single-use scroll that allows the user to cast Armour of Agathys as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/d/d1/Scroll_of_Armour_of_Agathys_Faded.png/300px-Scroll_of_Armour_of_Agathys_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
+    ],
+    "effect": [],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Armour_of_Agathys"
+  },
+  {
+    "name": "Scroll of Bane",
+    "description": "A Scroll of Bane is a single-use scroll that allows the user to cast Bane as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/f/f7/Scroll_of_Bane_Faded.png/300px-Scroll_of_Bane_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  ???  gp  "
+    ],
+    "effect": [],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Bane"
+  },
+  {
+    "name": "Scroll of Bless",
+    "description": "Scroll of Bless is a single-use scroll that allows the user to cast Bless as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/e/ec/Scroll_of_Bless_Faded.png/300px-Scroll_of_Bless_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  ???  gp  "
+    ],
+    "effect": [],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Bless"
+  },
+  {
+    "name": "Scroll of Guiding Bolt",
+    "description": "Scroll of Guiding Bolt is single-use scroll that allows the user to cast Guiding Bolt as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/8/87/Scroll_of_Guiding_Bolt_Faded.png/300px-Scroll_of_Guiding_Bolt_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  ???  gp  "
+    ],
+    "effect": [],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Guiding_Bolt"
+  },
+  {
+    "name": "Scroll of Shield of Faith",
+    "description": "Scroll of Shield of Faith is single-use scroll that allows the user to cast Shield of Faith as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/4/46/Scroll_of_Shield_of_Faith_Faded.png/300px-Scroll_of_Shield_of_Faith_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  ???  gp  "
+    ],
+    "effect": [],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Shield_of_Faith"
+  },
+  {
+    "name": "Scroll of Cure Wounds",
+    "description": "Scroll of Cure Wounds is single-use scroll that allows the user to cast Cure Wounds as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/a/a9/Scroll_of_Cure_Wounds_Faded.png/300px-Scroll_of_Cure_Wounds_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  ???  gp  "
+    ],
+    "effect": [],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Cure_Wounds"
+  },
+  {
+    "name": "Scroll of Healing Word",
+    "description": "Scroll of Healing Word is single-use scroll that allows the user to cast Healing Word as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/6/66/Scroll_of_Healing_Word_Faded.png/300px-Scroll_of_Healing_Word_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  ???  gp  "
+    ],
+    "effect": [],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Healing_Word"
+  },
+  {
+    "name": "Scroll of Moonbeam",
+    "description": "Scroll of Moonbeam is single-use scroll that allows the user to cast Moonbeam as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/9/9d/Scroll_of_Moonbeam_Faded.png/300px-Scroll_of_Moonbeam_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  ???  gp  "
+    ],
+    "effect": [],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Moonbeam"
+  },
+  {
+    "name": "Scroll of Inflict Wounds",
+    "description": "Scroll of Inflict Wounds is single-use scroll that allows the user to cast Inflict Wounds as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/1/19/Scroll_of_Inflict_Wounds_Faded.png/300px-Scroll_of_Inflict_Wounds_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  ???  gp  "
+    ],
+    "effect": [],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Inflict_Wounds"
+  },
+  {
+    "name": "Scroll of Acid Splash",
+    "description": "Scroll of Acid Splash is a single-use scroll that allows the user to cast Acid Splash as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/8/87/Book_Parchment_B_Image.png/300px-Book_Parchment_B_Image.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  ???  gp  "
+    ],
+    "effect": [],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Acid_Splash"
+  },
+  {
+    "name": "Scroll of Blade Ward",
+    "description": "Scroll of Blade Ward is a single-use scroll that allows the user to cast Blade Ward as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/8/87/Book_Parchment_B_Image.png/300px-Book_Parchment_B_Image.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  ???  gp  "
+    ],
+    "effect": [],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Blade_Ward"
+  },
+  {
+    "name": "Scroll of Prayer of Healing",
+    "description": "Scroll of Prayer of Healing is single-use scroll that allows the user to cast Prayer of Healing as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/9/96/Scroll_of_Prayer_of_Healing_Faded.png/300px-Scroll_of_Prayer_of_Healing_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  ???  gp  "
+    ],
+    "effect": [],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Prayer_of_Healing"
+  },
+  {
+    "name": "Scroll of Barkskin",
+    "description": "Scroll of Barkskin is a single-use scroll that allows the user to cast Barkskin as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/3/3b/Scroll_of_Barkskin_Faded.png/300px-Scroll_of_Barkskin_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  ???  gp  "
+    ],
+    "effect": [],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Barkskin"
+  },
+  {
+    "name": "Scroll of Protection from Poison",
+    "description": "Scroll of Protection from Poison is single-use scroll that allows the user to cast Protection from Poison as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/8/83/Scroll_of_Protection_from_Poison_Faded.png/300px-Scroll_of_Protection_from_Poison_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  ???  gp  "
+    ],
+    "effect": [],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Protection_from_Poison"
+  },
+  {
+    "name": "Scroll of Heat Metal",
+    "description": "Scroll of Heat Metal is single-use scroll that allows the user to cast Heat Metal as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/b/ba/Scroll_of_Heat_Metal_Faded.png/300px-Scroll_of_Heat_Metal_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  ???  gp  "
+    ],
+    "effect": [],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Heat_Metal"
+  },
+  {
+    "name": "Scroll of Lesser Restoration",
+    "description": "Scroll of Lesser Restoration is single-use scroll that allows the user to cast Lesser Restoration as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/0/04/Scroll_of_Lesser_Restoration_Faded.png/300px-Scroll_of_Lesser_Restoration_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  ???  gp  "
+    ],
+    "effect": [],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Lesser_Restoration"
+  },
+  {
+    "name": "Scroll of Silence",
+    "description": "Scroll of Silence is single-use scroll that allows the user to cast Silence as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/6/67/Scroll_of_Silence_Faded.png/300px-Scroll_of_Silence_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  ???  gp  "
+    ],
+    "effect": [],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Silence"
+  },
+  {
+    "name": "Scroll of Spike Growth",
+    "description": "Scroll of Spike Growth is single-use scroll that allows the user to cast Spike Growth as an action.\n",
+    "image": "https://bg3.wiki/w/images/thumb/d/d1/Scroll_of_Spike_Growth_Faded.png/300px-Scroll_of_Spike_Growth_Faded.png",
+    "properties": [
+      "  Scrolls ",
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  ???  gp  "
+    ],
+    "effect": [],
+    "condition": [],
+    "link": "https://bg3.wiki/wiki/Scroll_of_Spike_Growth"
+  }
+]
