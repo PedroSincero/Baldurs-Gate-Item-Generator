@@ -17,8 +17,8 @@ interface ItemProps {
 
 export default function Item({ name, description, image, properties, details, effect, condition, link}: ItemProps) {
   return (
-    <div className="border w-80">
-      <div className="flex border justify-between">
+    <div className="border h-[500px]">
+      <div className="grid grid-flow-col border h-16">
         <p className="text-lg">{name}</p>
         <div className="text-xs">
           <p>Rarity: {details.rarity}</p>
@@ -27,8 +27,11 @@ export default function Item({ name, description, image, properties, details, ef
         </div>
       </div>
       <div className="flex ">
-        <div className="border ">
-          <img src={image} alt={name}  />
+        <div className="border">
+        <a href={link} target="_blank" rel="noreferrer">
+          <img src={image} alt={name}  className=" w-72"/>
+          More Details
+        </a>
         </div>
         <div>
           <div className="border">
@@ -49,27 +52,27 @@ export default function Item({ name, description, image, properties, details, ef
 
         </div>
       </div>
-          <div className="flex justify-between">
-            <div className="border">
-              Conditions
-              {
-                condition.map((condition) => (
-                  <p className="text-xs">{condition}</p>
-                ))
-              }
-            </div>
-            <div className="border">
-              Effects
-              {
-                effect.map((effect) => (
-                  <p className="text-xs">{effect}</p>
-                ))
-              }
-            </div>
-          </div>
-      <div className="border">
-        <a href={link} target="_blank" rel="noreferrer">More Details</a>
+      <div className="grid grid-flow-col border">
+        <div className="border">
+          Conditions
+          {
+            condition.map((condition) => (
+              <p className="text-xs">{condition}</p>
+            ))
+          }
+        </div>
+        <div className="border">
+          Effects
+          {
+            effect.map((effect) => (
+              <p className="text-xs">{effect}</p>
+            ))
+          }
+        </div>
       </div>
+      {/* <div className="flex border items-end">
+        
+      </div> */}
     </div>
   )
 }
