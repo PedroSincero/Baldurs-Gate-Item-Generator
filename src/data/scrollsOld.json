@@ -5,13 +5,11 @@
     "image": "https://bg3.wiki/w/images/thumb/e/e5/Scroll_of_Darkvision_Faded.png/300px-Scroll_of_Darkvision_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  65  gp  "
     ],
-    "details": {
-      "rarity": "Uncommon",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "65  gp"
-    },
     "effect": [
       "Grants Darkvision",
       " Melee: 1.5 m / 5 ft"
@@ -28,13 +26,11 @@
     "image": "https://bg3.wiki/w/images/thumb/1/16/Scroll_of_Detect_Thoughts_Faded.png/300px-Scroll_of_Detect_Thoughts_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  65  gp  "
     ],
-    "details": {
-      "rarity": "Uncommon",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "65  gp"
-    },
     "effect": [
       "Grants Detect Thoughts",
       " Concentration",
@@ -52,13 +48,11 @@
     "image": "https://bg3.wiki/w/images/thumb/5/5f/Scroll_of_Feather_Fall_Faded.png/300px-Scroll_of_Feather_Fall_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "40  gp"
-    },
     "effect": [
       "Grants Feather Fall",
       " Range: Self",
@@ -75,13 +69,11 @@
     "image": "https://bg3.wiki/w/images/thumb/a/a1/Scroll_of_Jump_Faded.png/300px-Scroll_of_Jump_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "40  gp"
-    },
     "effect": [
       "Grants Jump",
       " Melee: 1.5 m / 5 ft"
@@ -98,13 +90,11 @@
     "image": "https://bg3.wiki/w/images/thumb/8/86/Scroll_of_Speak_With_Dead_Faded.png/300px-Scroll_of_Speak_With_Dead_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  65  gp  "
     ],
-    "details": {
-      "rarity": "Uncommon",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "65  gp"
-    },
     "effect": [
       "Casts  Speak with Dead.",
       " Range: 18 m / 60 ft",
@@ -121,13 +111,11 @@
     "image": "https://bg3.wiki/w/images/thumb/5/50/Scroll_of_Fly_Faded.png/300px-Scroll_of_Fly_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  100  gp  "
     ],
-    "details": {
-      "rarity": "Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "100  gp"
-    },
     "effect": [
       "Grants Flight",
       " Concentration",
@@ -145,13 +133,11 @@
     "image": "https://bg3.wiki/w/images/3/30/Scroll_of_Dimension_Door_Unfaded_Icon.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  100  gp  "
     ],
-    "details": {
-      "rarity": "Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "100  gp"
-    },
     "effect": [
       "Teleport yourself and up to one adjacent ally to a place you can see. The ally cannot be larger than Medium.",
       " Melee: 1.5 m / 5 ft Caster distance to ally.",
@@ -166,13 +152,11 @@
     "image": "https://bg3.wiki/w/images/thumb/7/7c/Scroll_of_Artistry_of_War_Faded.png/300px-Scroll_of_Artistry_of_War_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Very Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  180  gp  "
     ],
-    "details": {
-      "rarity": "Very Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "180  gp"
-    },
     "effect": [
       "Cast  Artistry of War.",
       " Range: 18 m / 60 ft"
@@ -187,14 +171,15 @@
     "properties": [
       "  Scrolls ",
       "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  ",
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "40  gp"
-    },
     "effect": [
       "Casts  Find Familiar: Cheeky Quasit on use."
     ],
@@ -207,13 +192,11 @@
     "image": "https://bg3.wiki/w/images/thumb/f/ff/Scroll_of_Bestial_Communion_Faded.png/300px-Scroll_of_Bestial_Communion_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Very Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  180  gp  "
     ],
-    "details": {
-      "rarity": "Very Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "180  gp"
-    },
     "effect": [
       "Cast  Sights of the Seelie: Summon Deva."
     ],
@@ -226,13 +209,11 @@
     "image": "https://bg3.wiki/w/images/thumb/2/2f/Scroll_of_Chill_Touch_Faded.png/300px-Scroll_of_Chill_Touch_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "40  gp"
-    },
     "effect": [
       "Deal 2d8Necrotic",
       "Inflicts Bone Chilled",
@@ -251,13 +232,11 @@
     "image": "https://bg3.wiki/w/images/thumb/2/24/Scroll_of_Firebolt_Faded.webp/300px-Scroll_of_Firebolt_Faded.webp.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "40  gp"
-    },
     "effect": [
       "Deal 2d10Fire",
       " Range: 18 m / 60 ft"
@@ -271,13 +250,11 @@
     "image": "https://bg3.wiki/w/images/thumb/1/18/Scroll_of_Ray_of_Frost_Faded.png/300px-Scroll_of_Ray_of_Frost_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "40  gp"
-    },
     "effect": [
       "Deal 2d8Cold",
       "Inflicts Ray of Frost",
@@ -295,13 +272,11 @@
     "image": "https://bg3.wiki/w/images/thumb/6/64/Scroll_of_Shocking_Grasp_Faded.png/300px-Scroll_of_Shocking_Grasp_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "40  gp"
-    },
     "effect": [
       "Deal 2d8Lightning",
       " Melee: 1.5 m / 5 ft",
@@ -317,13 +292,11 @@
     "image": "https://bg3.wiki/w/images/thumb/e/e9/Scroll_of_Animal_Friendship_Faded.png/300px-Scroll_of_Animal_Friendship_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "40  gp"
-    },
     "effect": [
       "Inflicts Charmed on a beast of 3 Intelligence or less",
       " Range: 18 m / 60 ft"
@@ -340,13 +313,11 @@
     "image": "https://bg3.wiki/w/images/thumb/2/22/Scroll_of_Burning_Hands_Faded.png/300px-Scroll_of_Burning_Hands_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "40  gp"
-    },
     "effect": [
       "Deal 3d6Fire (Dexterity Save to halve)",
       " Range: Self",
@@ -361,13 +332,11 @@
     "image": "https://bg3.wiki/w/images/thumb/7/75/Scroll_of_Charm_Person_Faded.png/300px-Scroll_of_Charm_Person_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "40  gp"
-    },
     "effect": [
       "Inflicts Charmed",
       " Concentration",
@@ -385,13 +354,11 @@
     "image": "https://bg3.wiki/w/images/thumb/5/59/Scroll_of_Chromatic_Orb_Faded.png/300px-Scroll_of_Chromatic_Orb_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "40  gp"
-    },
     "effect": [
       "Deal 3d8Thunder",
       "Or Choose to deal 2d8Acid, 2d8Cold, 2d8Fire, 2d8Lightning, 2d8Poison",
@@ -407,13 +374,11 @@
     "image": "https://bg3.wiki/w/images/thumb/2/20/Scroll_of_Colour_Spray_Faded.png/300px-Scroll_of_Colour_Spray_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "40  gp"
-    },
     "effect": [
       "Inflict Blinded on creatures up to a combined 33 Hit Points.",
       " Range: Self",
@@ -433,13 +398,11 @@
     "image": "https://bg3.wiki/w/images/thumb/0/05/Scroll_of_Disguise_Self_Faded.png/300px-Scroll_of_Disguise_Self_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "40  gp"
-    },
     "effect": [
       "Grants Disguise Self",
       " Range: Self"
@@ -457,13 +420,11 @@
     "image": "https://bg3.wiki/w/images/thumb/9/9d/Scroll_of_Expeditious_Retreat_Faded.png/300px-Scroll_of_Expeditious_Retreat_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "40  gp"
-    },
     "effect": [
       "Grants Expeditious Retreat",
       " Range: Self"
@@ -480,13 +441,11 @@
     "image": "https://bg3.wiki/w/images/thumb/5/54/Scroll_of_False_Life_Faded.png/300px-Scroll_of_False_Life_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "40  gp"
-    },
     "effect": [
       "Grants False Life",
       " Range: Self"
@@ -503,13 +462,11 @@
     "image": "https://bg3.wiki/w/images/thumb/0/0a/Scroll_of_Find_Familiar_Faded.png/300px-Scroll_of_Find_Familiar_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.05 kg / 0.1 lb ",
+      "  Price:  14  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.05 kg / 0.1 lb",
-      "price": "14  gp"
-    },
     "effect": [
       "Summons a chosen familiar from the same pool of creatures as the spell Find Familiar."
     ],
@@ -522,13 +479,11 @@
     "image": "https://bg3.wiki/w/images/thumb/5/5f/Scroll_of_Feather_Fall_Faded.png/300px-Scroll_of_Feather_Fall_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "40  gp"
-    },
     "effect": [
       "Grants Feather Fall",
       " Range: Self",
@@ -545,13 +500,11 @@
     "image": "https://bg3.wiki/w/images/thumb/3/3f/Scroll_of_Fog_Cloud_Faded.png/300px-Scroll_of_Fog_Cloud_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "40  gp"
-    },
     "effect": [
       "Creates Area: Fog that inflicts Blinded",
       " Concentration",
@@ -568,13 +521,11 @@
     "image": "https://bg3.wiki/w/images/thumb/1/18/Scroll_of_Goodberry_Faded.png/300px-Scroll_of_Goodberry_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "40  gp"
-    },
     "effect": [
       "Four Goodberries spawn in the targets inventory.",
       " Melee: 1.5 m / 5 ft"
@@ -588,13 +539,11 @@
     "image": "https://bg3.wiki/w/images/thumb/c/cf/Scroll_of_Grease_Faded.png/300px-Scroll_of_Grease_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "40  gp"
-    },
     "effect": [
       "Creates Area: Grease that inflicts Prone",
       " Range: 18 m / 60 ft",
@@ -610,13 +559,11 @@
     "image": "https://bg3.wiki/w/images/thumb/0/02/Scroll_of_Ice_Knife_Faded.png/300px-Scroll_of_Ice_Knife_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "40  gp"
-    },
     "effect": [
       "Deal 1d10Piercing damage.",
       " Range: 18 m / 60 ft",
@@ -638,13 +585,11 @@
     "image": "https://bg3.wiki/w/images/thumb/a/a1/Scroll_of_Jump_Faded.png/300px-Scroll_of_Jump_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "40  gp"
-    },
     "effect": [
       "Grants Jump",
       " Melee: 1.5 m / 5 ft"
@@ -661,13 +606,11 @@
     "image": "https://bg3.wiki/w/images/thumb/0/0b/Scroll_of_Longstrider_Faded.png/300px-Scroll_of_Longstrider_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "40  gp"
-    },
     "effect": [
       "Grants Longstrider",
       " Melee: 1.5 m / 5 ft"
@@ -684,13 +627,11 @@
     "image": "https://bg3.wiki/w/images/thumb/3/36/Scroll_of_Mage_Armour_Faded.png/300px-Scroll_of_Mage_Armour_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "40  gp"
-    },
     "effect": [
       "Grants Mage Armour.",
       " Melee: 1.5 m / 5 ft"
@@ -707,13 +648,11 @@
     "image": "https://bg3.wiki/w/images/thumb/7/7f/Scroll_of_Magic_Missile_Faded.png/300px-Scroll_of_Magic_Missile_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "40  gp"
-    },
     "effect": [
       "Deal 3x1d4+1Force",
       " Range: 18 m / 60 ft",
@@ -728,13 +667,11 @@
     "image": "https://bg3.wiki/w/images/thumb/8/88/Scroll_of_Protection_from_Evil_and_Good_Faded.png/300px-Scroll_of_Protection_from_Evil_and_Good_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "40  gp"
-    },
     "effect": [
       "Grants Protection from Evil and Good",
       " Concentration",
@@ -751,13 +688,11 @@
     "image": "https://bg3.wiki/w/images/thumb/0/06/Scroll_of_Ray_of_Sickness_Faded.png/300px-Scroll_of_Ray_of_Sickness_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "40  gp"
-    },
     "effect": [
       "Deal 2d8Poison",
       "Inflicts Poisoned",
@@ -776,13 +711,11 @@
     "image": "https://bg3.wiki/w/images/thumb/3/39/Scroll_of_Sleep_Faded.png/300px-Scroll_of_Sleep_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "40  gp"
-    },
     "effect": [
       "Inflicts Sleeping on targets up to a combined 24 Hit Points.",
       " Range: 18 m / 60 ft"
@@ -804,14 +737,15 @@
     "properties": [
       "  Scrolls ",
       "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  ",
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "40  gp"
-    },
     "effect": [
       "Casts  Find Familiar: Cheeky Quasit on use."
     ],
@@ -824,13 +758,11 @@
     "image": "https://bg3.wiki/w/images/thumb/9/9f/Scroll_of_Tasha%27s_Hideous_Laughter_Faded.png/300px-Scroll_of_Tasha%27s_Hideous_Laughter_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "40  gp"
-    },
     "effect": [
       "Inflicts Hideous Laughter on a creature of 5 Intelligence or more",
       " Concentration",
@@ -851,13 +783,11 @@
     "image": "https://bg3.wiki/w/images/thumb/a/af/Scroll_of_Thunderwave_Faded.png/300px-Scroll_of_Thunderwave_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "40  gp"
-    },
     "effect": [
       "Deal 2d8Thunder (Constitution Save to halve)",
       "Pushes away all creatures and objects",
@@ -873,13 +803,11 @@
     "image": "https://bg3.wiki/w/images/thumb/2/20/Scroll_of_Witch_Bolt_Faded.png/300px-Scroll_of_Witch_Bolt_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "40  gp"
-    },
     "effect": [
       "Deal 1d12Lightning",
       "Link yourself to a target with a bolt of lightning. Deal an additional 1d12Lightning each turn by activating it.",
@@ -895,13 +823,11 @@
     "image": "https://bg3.wiki/w/images/thumb/a/a0/Scroll_of_Aid_Faded.png/300px-Scroll_of_Aid_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "40  gp"
-    },
     "effect": [
       "Restores 5hit points and grants Aid",
       " Range: Self",
@@ -909,8 +835,8 @@
     ],
     "condition": [
       "Aid  Duration: Until Long rest ",
-      "Hit point maximum increased by 5hit points.",
-      "Hit point maximum increases by a further 5hit points for every Spell Slot Level above 2 used."
+      "Hit point maximum increased by 5Hit Points.",
+      "Hit point maximum increases by a further 5Hit Points for every Spell Slot Level above 2 used."
     ],
     "link": "https://bg3.wiki/wiki/Scroll_of_Aid"
   },
@@ -920,13 +846,11 @@
     "image": "https://bg3.wiki/w/images/thumb/e/e6/Scroll_of_Arcane_Lock_Faded.png/300px-Scroll_of_Arcane_Lock_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
     ],
-    "details": {
-      "rarity": "Uncommon",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "40  gp"
-    },
     "effect": [
       "Inflicts Arcane Lock on any lockable container or door.",
       " Melee: 1.5 m / 5 ft"
@@ -943,13 +867,11 @@
     "image": "https://bg3.wiki/w/images/thumb/2/26/Scroll_of_Blindness_Faded.png/300px-Scroll_of_Blindness_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  65  gp  "
     ],
-    "details": {
-      "rarity": "Uncommon",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "65  gp"
-    },
     "effect": [
       "Inflicts Blinded",
       " Range: 18 m / 60 ft"
@@ -968,13 +890,11 @@
     "image": "https://bg3.wiki/w/images/thumb/d/d1/Scroll_of_Blur_Faded.png/300px-Scroll_of_Blur_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  65  gp  "
     ],
-    "details": {
-      "rarity": "Uncommon",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "65  gp"
-    },
     "effect": [
       "Grants Blurred",
       " Concentration",
@@ -992,13 +912,11 @@
     "image": "https://bg3.wiki/w/images/thumb/7/77/Scroll_of_Cloud_of_Daggers_Faded.png/300px-Scroll_of_Cloud_of_Daggers_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  65  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "65  gp"
-    },
     "effect": [],
     "condition": [],
     "link": "https://bg3.wiki/wiki/Scroll_of_Cloud_of_Daggers"
@@ -1009,13 +927,11 @@
     "image": "https://bg3.wiki/w/images/thumb/8/84/Scroll_of_Crown_of_Madness_Faded.png/300px-Scroll_of_Crown_of_Madness_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  65  gp  "
     ],
-    "details": {
-      "rarity": "Uncommon",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "65  gp"
-    },
     "effect": [
       "Inflicts Crown of Madness",
       " Concentration",
@@ -1033,13 +949,11 @@
     "image": "https://bg3.wiki/w/images/thumb/b/b6/Scroll_of_Darkness_Faded.png/300px-Scroll_of_Darkness_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  65  gp  "
     ],
-    "details": {
-      "rarity": "Uncommon",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "65  gp"
-    },
     "effect": [
       "Creates Area: Darkness that inflicts Blinded",
       " Range: 18 m / 60 ft",
@@ -1057,13 +971,11 @@
     "image": "https://bg3.wiki/w/images/thumb/e/e5/Scroll_of_Darkvision_Faded.png/300px-Scroll_of_Darkvision_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  65  gp  "
     ],
-    "details": {
-      "rarity": "Uncommon",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "65  gp"
-    },
     "effect": [
       "Grants Darkvision",
       " Melee: 1.5 m / 5 ft"
@@ -1080,13 +992,11 @@
     "image": "https://bg3.wiki/w/images/thumb/1/16/Scroll_of_Detect_Thoughts_Faded.png/300px-Scroll_of_Detect_Thoughts_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  65  gp  "
     ],
-    "details": {
-      "rarity": "Uncommon",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "65  gp"
-    },
     "effect": [
       "Grants Detect Thoughts",
       " Concentration",
@@ -1104,13 +1014,11 @@
     "image": "https://bg3.wiki/w/images/thumb/b/bf/Scroll_of_Enlarge_Faded.png/300px-Scroll_of_Enlarge_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  65  gp  "
     ],
-    "details": {
-      "rarity": "Uncommon",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "65  gp"
-    },
     "effect": [
       "Grants Enlarged or Reduced. Can be used on enemies against enemy CON saves.",
       " Concentration",
@@ -1129,13 +1037,11 @@
     "image": "https://bg3.wiki/w/images/thumb/d/d1/Scroll_of_Flame_Blade_Faded.png/300px-Scroll_of_Flame_Blade_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  65  gp  "
     ],
-    "details": {
-      "rarity": "Uncommon",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "65  gp"
-    },
     "effect": [
       "Conjures a Flame Blade in the casters hand.",
       " Duration: 10 turns"
@@ -1149,13 +1055,11 @@
     "image": "https://bg3.wiki/w/images/thumb/7/72/Scroll_of_Flaming_Sphere_Faded.png/300px-Scroll_of_Flaming_Sphere_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  65  gp  "
     ],
-    "details": {
-      "rarity": "Uncommon",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "65  gp"
-    },
     "effect": [
       "Summons a Flaming Sphere",
       " Duration: 10 turns"
@@ -1169,13 +1073,11 @@
     "image": "https://bg3.wiki/w/images/thumb/0/05/Scroll_of_Gust_of_Wind_Faded.png/300px-Scroll_of_Gust_of_Wind_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
     ],
-    "details": {
-      "rarity": "Uncommon",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "40  gp"
-    },
     "effect": [
       "Summon a strong wind that clears clouds.",
       " Range: Self",
@@ -1196,13 +1098,11 @@
     "image": "https://bg3.wiki/w/images/thumb/f/fc/Scroll_of_Hold_Person_Faded.png/300px-Scroll_of_Hold_Person_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  65  gp  "
     ],
-    "details": {
-      "rarity": "Uncommon",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "65  gp"
-    },
     "effect": [
       "Inflicts Hold Person",
       " Concentration",
@@ -1225,13 +1125,11 @@
     "image": "https://bg3.wiki/w/images/thumb/a/ae/Scroll_of_Invisibility_Faded.png/300px-Scroll_of_Invisibility_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  65  gp  "
     ],
-    "details": {
-      "rarity": "Uncommon",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "65  gp"
-    },
     "effect": [
       "Grants Invisible",
       " Concentration",
@@ -1250,13 +1148,11 @@
     "image": "https://bg3.wiki/w/images/thumb/c/c1/Scroll_of_Knock_Faded.png/300px-Scroll_of_Knock_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity:   ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  100  gp  "
     ],
-    "details": {
-      "rarity": "",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "100  gp"
-    },
     "effect": [
       "Unlocks an object that is held shut by a mundane lock.",
       " Range: 18 m / 60 ft"
@@ -1270,13 +1166,11 @@
     "image": "https://bg3.wiki/w/images/thumb/6/6e/Scroll_of_Magic_Weapon_Faded.png/300px-Scroll_of_Magic_Weapon_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  65  gp  "
     ],
-    "details": {
-      "rarity": "Uncommon",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "65  gp"
-    },
     "effect": [
       "Grants Magic Weapon to the currently equipped weapon.",
       " Melee: 1.5 m / 5 ft"
@@ -1293,13 +1187,11 @@
     "image": "https://bg3.wiki/w/images/thumb/1/1d/Scroll_of_Melf%27s_Acid_Arrow_Faded.png/300px-Scroll_of_Melf%27s_Acid_Arrow_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
     ],
-    "details": {
-      "rarity": "Uncommon",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "40  gp"
-    },
     "effect": [
       "Deals 4d4Acid damage.",
       " Range: 18 m / 60 ft",
@@ -1321,13 +1213,11 @@
     "image": "https://bg3.wiki/w/images/thumb/a/a3/Scroll_of_Mirror_Image_Faded.png/300px-Scroll_of_Mirror_Image_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  65  gp  "
     ],
-    "details": {
-      "rarity": "Uncommon",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "65  gp"
-    },
     "effect": [
       "Grants Mirror Image",
       " Range: Self"
@@ -1344,13 +1234,11 @@
     "image": "https://bg3.wiki/w/images/thumb/5/58/Scroll_of_Misty_Step_Faded.png/300px-Scroll_of_Misty_Step_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  65  gp  "
     ],
-    "details": {
-      "rarity": "Uncommon",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "65  gp"
-    },
     "effect": [
       "Move to a visible unoccupied space without triggering reactions",
       " Range: 18 m / 60 ft"
@@ -1364,13 +1252,11 @@
     "image": "https://bg3.wiki/w/images/thumb/9/90/Scroll_of_Phantasmal_Force_Faded.png/300px-Scroll_of_Phantasmal_Force_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  65  gp  "
     ],
-    "details": {
-      "rarity": "Uncommon",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "65  gp"
-    },
     "effect": [
       "Inflicts Phantasmal Force",
       " Range: 18 m / 60 ft",
@@ -1390,13 +1276,11 @@
     "image": "https://bg3.wiki/w/images/thumb/8/86/Scroll_of_Ray_of_Enfeeblement_Faded.png/300px-Scroll_of_Ray_of_Enfeeblement_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "40  gp"
-    },
     "effect": [
       "Inflicts Feeble",
       " Concentration",
@@ -1414,13 +1298,11 @@
     "image": "https://bg3.wiki/w/images/thumb/e/e2/Scroll_of_Scorching_Ray_Faded.png/300px-Scroll_of_Scorching_Ray_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "40  gp"
-    },
     "effect": [
       "Deal 3x2d6Fire",
       " Range: 18 m / 60 ft"
@@ -1434,13 +1316,11 @@
     "image": "https://bg3.wiki/w/images/thumb/2/2a/Scroll_of_See_Invisibility_Faded.png/300px-Scroll_of_See_Invisibility_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  65  gp  "
     ],
-    "details": {
-      "rarity": "Uncommon",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "65  gp"
-    },
     "effect": [
       "Grants See Invisibility",
       " Range: Self",
@@ -1459,13 +1339,11 @@
     "image": "https://bg3.wiki/w/images/thumb/f/fd/Scroll_of_Shatter_Faded.png/300px-Scroll_of_Shatter_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  65  gp  "
     ],
-    "details": {
-      "rarity": "Uncommon",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "65  gp"
-    },
     "effect": [
       "Deal 3d8Thunder (Constitution Save to halve)",
       "Things made out of inorganic material have  Disadvantage",
@@ -1481,13 +1359,11 @@
     "image": "https://bg3.wiki/w/images/thumb/f/f9/Scroll_of_Web_Faded.png/300px-Scroll_of_Web_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  65  gp  "
     ],
-    "details": {
-      "rarity": "Uncommon",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "65  gp"
-    },
     "effect": [
       "Creates Area:Web that can inflict Enwebbed",
       " Concentration",
@@ -1504,13 +1380,11 @@
     "image": "https://bg3.wiki/w/images/e/e9/Scroll_of_Animate_Dead_Unfaded_Icon.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  100  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "100  gp"
-    },
     "effect": [
       "Creates a level 3 Skeleton or a Zombie out of a corpse."
     ],
@@ -1523,13 +1397,11 @@
     "image": "https://bg3.wiki/w/images/1/16/Scroll_of_Bestow_Curse_Unfaded_Icon.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  100  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "100  gp"
-    },
     "effect": [
       "Inflicts any of the chosen conditions from  Bestow Curse spell.",
       " Melee: 1.5 m / 5 ft"
@@ -1543,13 +1415,11 @@
     "image": "https://bg3.wiki/w/images/thumb/f/fd/Scroll_of_Blink_Faded.png/300px-Scroll_of_Blink_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  100  gp  "
     ],
-    "details": {
-      "rarity": "Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "100  gp"
-    },
     "effect": [
       "Grants Blink",
       " Range: Self"
@@ -1570,13 +1440,11 @@
     "image": "https://bg3.wiki/w/images/thumb/8/85/Scroll_of_Fear_Faded.png/300px-Scroll_of_Fear_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  100  gp  "
     ],
-    "details": {
-      "rarity": "Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "100  gp"
-    },
     "effect": [
       "Inflicts Fearful and makes the target drop their weapon",
       " Range: 9 m / 30 ft",
@@ -1596,13 +1464,11 @@
     "image": "https://bg3.wiki/w/images/thumb/9/9c/Scroll_of_Feign_Death_Faded.png/300px-Scroll_of_Feign_Death_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  100  gp  "
     ],
-    "details": {
-      "rarity": "Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "100  gp"
-    },
     "effect": [
       "Grants Feigning Death",
       " Melee: 1.5 m / 5 ft"
@@ -1622,13 +1488,11 @@
     "image": "https://bg3.wiki/w/images/thumb/2/28/Scroll_of_Fireball_Faded.png/300px-Scroll_of_Fireball_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  100  gp  "
     ],
-    "details": {
-      "rarity": "Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "100  gp"
-    },
     "effect": [
       "Deals 8d6Fire to creatures in a radius.",
       " Range: 18 m / 60 ft",
@@ -1644,13 +1508,11 @@
     "image": "https://bg3.wiki/w/images/thumb/5/50/Scroll_of_Fly_Faded.png/300px-Scroll_of_Fly_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  100  gp  "
     ],
-    "details": {
-      "rarity": "Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "100  gp"
-    },
     "effect": [
       "Grants Flight",
       " Concentration",
@@ -1668,13 +1530,11 @@
     "image": "https://bg3.wiki/w/images/6/6f/Scroll_of_Gaseous_Form_Unfaded_Icon.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  100  gp  "
     ],
-    "details": {
-      "rarity": "Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "100  gp"
-    },
     "effect": [
       "Grants Gaseous Form",
       " Melee: 1.5 m / 5 ft"
@@ -1696,13 +1556,11 @@
     "image": "https://bg3.wiki/w/images/thumb/0/0c/Scroll_of_Glyph_of_Warding_Faded.png/300px-Scroll_of_Glyph_of_Warding_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  100  gp  "
     ],
-    "details": {
-      "rarity": "Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "100  gp"
-    },
     "effect": [
       "Puts down a glyph chosen from the  Glyph of Warding spells list.",
       " Range: 9 m / 30 ft",
@@ -1717,13 +1575,11 @@
     "image": "https://bg3.wiki/w/images/thumb/d/d5/Scroll_of_Haste_Faded.png/300px-Scroll_of_Haste_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  100  gp  "
     ],
-    "details": {
-      "rarity": "Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "100  gp"
-    },
     "effect": [
       "Grants Hastened",
       " Range: 9 m / 30 ft",
@@ -1744,13 +1600,11 @@
     "image": "https://bg3.wiki/w/images/thumb/c/cc/Scroll_of_Hypnotic_Pattern_Faded.png/300px-Scroll_of_Hypnotic_Pattern_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  100  gp  "
     ],
-    "details": {
-      "rarity": "Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "100  gp"
-    },
     "effect": [
       "Inflicts Hypnotised",
       " Range: 18 m / 60 ft",
@@ -1770,13 +1624,11 @@
     "image": "https://bg3.wiki/w/images/thumb/7/77/Scroll_of_Lightning_Bolt_Faded.png/300px-Scroll_of_Lightning_Bolt_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  100  gp  "
     ],
-    "details": {
-      "rarity": "Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "100  gp"
-    },
     "effect": [
       "Deals 8d6Lightning damage in a line.",
       " Range: Self",
@@ -1792,13 +1644,11 @@
     "image": "https://bg3.wiki/w/images/thumb/7/70/Scroll_of_Protection_from_Energy_Faded.png/300px-Scroll_of_Protection_from_Energy_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  100  gp  "
     ],
-    "details": {
-      "rarity": "Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "100  gp"
-    },
     "effect": [
       "Grants Resistance to  Acid,  Cold,  Fire,  Lightning, or  Thunder damage.",
       " Melee: 1.5 m / 5 ft",
@@ -1814,13 +1664,11 @@
     "image": "https://bg3.wiki/w/images/thumb/3/35/Scroll_of_Remove_Curse_Faded.png/300px-Scroll_of_Remove_Curse_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  100  gp  "
     ],
-    "details": {
-      "rarity": "Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "100  gp"
-    },
     "effect": [
       "Remove any Cursed and  Hex conditions."
     ],
@@ -1833,13 +1681,11 @@
     "image": "https://bg3.wiki/w/images/thumb/d/de/Scroll_of_Revivify_Faded.png/300px-Scroll_of_Revivify_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  100  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "100  gp"
-    },
     "effect": [
       "Revives a Companion with 1 hit point.",
       " Range: 9 m / 30 ft"
@@ -1853,13 +1699,11 @@
     "image": "https://bg3.wiki/w/images/thumb/7/70/Scroll_of_Sleet_Storm_Faded.png/300px-Scroll_of_Sleet_Storm_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  100  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "100  gp"
-    },
     "effect": [
       "",
       " Range: 18 m / 60 ft",
@@ -1874,13 +1718,11 @@
     "image": "https://bg3.wiki/w/images/thumb/4/42/Scroll_of_Slow_Faded.png/300px-Scroll_of_Slow_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  100  gp  "
     ],
-    "details": {
-      "rarity": "Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "100  gp"
-    },
     "effect": [
       "Inflicts Slowed up to 6 targets.",
       " Range: 18 m / 60 ft",
@@ -1903,13 +1745,11 @@
     "image": "https://bg3.wiki/w/images/thumb/8/86/Scroll_of_Speak_With_Dead_Faded.png/300px-Scroll_of_Speak_With_Dead_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  65  gp  "
     ],
-    "details": {
-      "rarity": "Uncommon",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "65  gp"
-    },
     "effect": [
       "Casts  Speak with Dead.",
       " Range: 18 m / 60 ft",
@@ -1926,13 +1766,11 @@
     "image": "https://bg3.wiki/w/images/thumb/b/bd/Scroll_of_Stinking_Cloud_Faded.png/300px-Scroll_of_Stinking_Cloud_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  100  gp  "
     ],
-    "details": {
-      "rarity": "Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "100  gp"
-    },
     "effect": [
       "Found in a buried chest in Rivington, inside a barn X: 37 Y: -149"
     ],
@@ -1945,13 +1783,11 @@
     "image": "https://bg3.wiki/w/images/thumb/0/02/Scroll_of_Vampiric_Touch_Faded.png/300px-Scroll_of_Vampiric_Touch_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  100  gp  "
     ],
-    "details": {
-      "rarity": "Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "100  gp"
-    },
     "effect": [
       "Deal 3d6Necrotic",
       "Heals the user for half of the damage dealt",
@@ -1968,13 +1804,11 @@
     "image": "https://bg3.wiki/w/images/thumb/4/4f/Scroll_of_Banishment_Faded.png/300px-Scroll_of_Banishment_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  180  gp  "
     ],
-    "details": {
-      "rarity": "Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "180  gp"
-    },
     "effect": [],
     "condition": [],
     "link": "https://bg3.wiki/wiki/Scroll_of_Banishment"
@@ -1985,13 +1819,11 @@
     "image": "",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  180  gp  "
     ],
-    "details": {
-      "rarity": "Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "180  gp"
-    },
     "effect": [],
     "condition": [],
     "link": "https://bg3.wiki/wiki/Scroll_of_Blight"
@@ -2002,13 +1834,11 @@
     "image": "",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  180  gp  "
     ],
-    "details": {
-      "rarity": "Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "180  gp"
-    },
     "effect": [],
     "condition": [],
     "link": "https://bg3.wiki/wiki/Scroll_of_Confusion"
@@ -2019,13 +1849,11 @@
     "image": "https://bg3.wiki/w/images/thumb/1/1a/Scroll_of_Conjure_Minor_Elemental_Faded.png/300px-Scroll_of_Conjure_Minor_Elemental_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  180  gp  "
     ],
-    "details": {
-      "rarity": "Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "180  gp"
-    },
     "effect": [
       "Casts Conjure Minor Elemental on use."
     ],
@@ -2038,13 +1866,11 @@
     "image": "https://bg3.wiki/w/images/3/30/Scroll_of_Dimension_Door_Unfaded_Icon.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  100  gp  "
     ],
-    "details": {
-      "rarity": "Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "100  gp"
-    },
     "effect": [
       "Teleport yourself and up to one adjacent ally to a place you can see. The ally cannot be larger than Medium.",
       " Melee: 1.5 m / 5 ft Caster distance to ally.",
@@ -2059,13 +1885,11 @@
     "image": "https://bg3.wiki/w/images/thumb/6/67/SCROLL_Evard%27s_Black_Tentacles_Faded.png/300px-SCROLL_Evard%27s_Black_Tentacles_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  180  gp  "
     ],
-    "details": {
-      "rarity": "Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "180  gp"
-    },
     "effect": [
       "Deal 3d6Bludgeoning (Strength Save to negate)",
       " Concentration",
@@ -2083,13 +1907,11 @@
     "image": "",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  180  gp  "
     ],
-    "details": {
-      "rarity": "Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "180  gp"
-    },
     "effect": [],
     "condition": [],
     "link": "https://bg3.wiki/wiki/Scroll_of_Fire_Shield"
@@ -2100,13 +1922,11 @@
     "image": "https://bg3.wiki/w/images/thumb/6/6e/Scroll_of_Greater_Invisibility_Faded.png/300px-Scroll_of_Greater_Invisibility_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  180  gp  "
     ],
-    "details": {
-      "rarity": "Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "180  gp"
-    },
     "effect": [],
     "condition": [],
     "link": "https://bg3.wiki/wiki/Scroll_of_Greater_Invisibility"
@@ -2117,13 +1937,11 @@
     "image": "https://bg3.wiki/w/images/thumb/9/96/Scroll_of_Ice_Storm_Faded.png/300px-Scroll_of_Ice_Storm_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  180  gp  "
     ],
-    "details": {
-      "rarity": "Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "180  gp"
-    },
     "effect": [],
     "condition": [],
     "link": "https://bg3.wiki/wiki/Scroll_of_Ice_Storm"
@@ -2134,13 +1952,11 @@
     "image": "https://bg3.wiki/w/images/thumb/d/d1/Scroll_of_Otiluke%27s_Resilient_Sphere_Faded.png/300px-Scroll_of_Otiluke%27s_Resilient_Sphere_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  180  gp  "
     ],
-    "details": {
-      "rarity": "Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "180  gp"
-    },
     "effect": [],
     "condition": [],
     "link": "https://bg3.wiki/wiki/Scroll_of_Otiluke%27s_Resilient_Sphere"
@@ -2151,13 +1967,11 @@
     "image": "https://bg3.wiki/w/images/thumb/c/c6/Scroll_of_Phantasmal_Killer_Faded.png/300px-Scroll_of_Phantasmal_Killer_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  180  gp  "
     ],
-    "details": {
-      "rarity": "Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "180  gp"
-    },
     "effect": [],
     "condition": [],
     "link": "https://bg3.wiki/wiki/Scroll_of_Phantasmal_Killer"
@@ -2168,13 +1982,11 @@
     "image": "https://bg3.wiki/w/images/thumb/f/f9/Scroll_of_Polymorph_Faded.png/300px-Scroll_of_Polymorph_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  180  gp  "
     ],
-    "details": {
-      "rarity": "Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "180  gp"
-    },
     "effect": [],
     "condition": [],
     "link": "https://bg3.wiki/wiki/Scroll_of_Polymorph"
@@ -2185,13 +1997,11 @@
     "image": "https://bg3.wiki/w/images/thumb/f/f8/Scroll_of_Stoneskin_Faded.png/300px-Scroll_of_Stoneskin_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  180  gp  "
     ],
-    "details": {
-      "rarity": "Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "180  gp"
-    },
     "effect": [],
     "condition": [],
     "link": "https://bg3.wiki/wiki/Scroll_of_Stoneskin"
@@ -2202,13 +2012,11 @@
     "image": "https://bg3.wiki/w/images/thumb/6/68/Scroll_of_Wall_of_Fire_Faded.png/300px-Scroll_of_Wall_of_Fire_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  180  gp  "
     ],
-    "details": {
-      "rarity": "Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "180  gp"
-    },
     "effect": [],
     "condition": [],
     "link": "https://bg3.wiki/wiki/Scroll_of_Wall_of_Fire"
@@ -2219,13 +2027,11 @@
     "image": "https://bg3.wiki/w/images/thumb/7/7c/Scroll_of_Artistry_of_War_Faded.png/300px-Scroll_of_Artistry_of_War_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Very Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  180  gp  "
     ],
-    "details": {
-      "rarity": "Very Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "180  gp"
-    },
     "effect": [
       "Cast  Artistry of War.",
       " Range: 18 m / 60 ft"
@@ -2239,13 +2045,11 @@
     "image": "https://bg3.wiki/w/images/thumb/f/ff/Scroll_of_Bestial_Communion_Faded.png/300px-Scroll_of_Bestial_Communion_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Very Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  180  gp  "
     ],
-    "details": {
-      "rarity": "Very Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "180  gp"
-    },
     "effect": [
       "Cast  Sights of the Seelie: Summon Deva."
     ],
@@ -2258,13 +2062,11 @@
     "image": "https://bg3.wiki/w/images/thumb/f/f3/Scroll_of_Cloudkill_Faded.png/300px-Scroll_of_Cloudkill_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Very Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  400  gp  "
     ],
-    "details": {
-      "rarity": "Very Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "400  gp"
-    },
     "effect": [
       "Creates Area: Cloudkill that deals 5d8Poison (Constitution Save to halve) to creatures starting their turns in it",
       "The cloud can be repositioned by using an Action",
@@ -2282,13 +2084,11 @@
     "image": "https://bg3.wiki/w/images/thumb/8/88/Scroll_of_Cone_of_Cold_Faded.png/300px-Scroll_of_Cone_of_Cold_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Very Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  400  gp  "
     ],
-    "details": {
-      "rarity": "Very Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "400  gp"
-    },
     "effect": [],
     "condition": [],
     "link": "https://bg3.wiki/wiki/Scroll_of_Cone_of_Cold"
@@ -2299,13 +2099,11 @@
     "image": "https://bg3.wiki/w/images/thumb/e/ed/Scroll_of_Conjure_Elemental_Faded.png/300px-Scroll_of_Conjure_Elemental_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Very Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  400  gp  "
     ],
-    "details": {
-      "rarity": "Very Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "400  gp"
-    },
     "effect": [
       "Casts Conjure Elemental on use."
     ],
@@ -2318,13 +2116,11 @@
     "image": "https://bg3.wiki/w/images/thumb/2/20/Scroll_of_Dethrone_Faded.png/300px-Scroll_of_Dethrone_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Very Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  180  gp  "
     ],
-    "details": {
-      "rarity": "Very Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "180  gp"
-    },
     "effect": [
       "Cast  Dethrone."
     ],
@@ -2337,13 +2133,11 @@
     "image": "https://bg3.wiki/w/images/thumb/6/62/Scroll_of_Dominate_Person_Faded.png/300px-Scroll_of_Dominate_Person_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Very Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  600  gp  "
     ],
-    "details": {
-      "rarity": "Very Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "600  gp"
-    },
     "effect": [],
     "condition": [],
     "link": "https://bg3.wiki/wiki/Scroll_of_Dominate_Person"
@@ -2354,13 +2148,11 @@
     "image": "https://bg3.wiki/w/images/thumb/6/67/Scroll_of_Hold_Monster_Faded.png/300px-Scroll_of_Hold_Monster_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Very Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  600  gp  "
     ],
-    "details": {
-      "rarity": "Very Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "600  gp"
-    },
     "effect": [],
     "condition": [],
     "link": "https://bg3.wiki/wiki/Scroll_of_Hold_Monster"
@@ -2371,13 +2163,11 @@
     "image": "https://bg3.wiki/w/images/thumb/1/16/Scroll_of_Planar_Binding_Faded.png/300px-Scroll_of_Planar_Binding_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Very Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  400  gp  "
     ],
-    "details": {
-      "rarity": "Very Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "400  gp"
-    },
     "effect": [
       "Inflicts Seized by Planar Binding.",
       " Concentration",
@@ -2392,13 +2182,11 @@
     "image": "https://bg3.wiki/w/images/thumb/d/d4/Scroll_of_Seeming_Faded.png/300px-Scroll_of_Seeming_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Very Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  400  gp  "
     ],
-    "details": {
-      "rarity": "Very Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "400  gp"
-    },
     "effect": [],
     "condition": [],
     "link": "https://bg3.wiki/wiki/Scroll_of_Seeming"
@@ -2409,13 +2197,11 @@
     "image": "https://bg3.wiki/w/images/thumb/7/7c/Scroll_of_Telekinesis_Faded.png/300px-Scroll_of_Telekinesis_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Very Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  600  gp  "
     ],
-    "details": {
-      "rarity": "Very Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "600  gp"
-    },
     "effect": [],
     "condition": [],
     "link": "https://bg3.wiki/wiki/Scroll_of_Telekinesis"
@@ -2426,13 +2212,11 @@
     "image": "https://bg3.wiki/w/images/thumb/7/7c/Scroll_of_Wall_of_Stone_Faded.png/300px-Scroll_of_Wall_of_Stone_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Very Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  600  gp  "
     ],
-    "details": {
-      "rarity": "Very Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "600  gp"
-    },
     "effect": [],
     "condition": [],
     "link": "https://bg3.wiki/wiki/Scroll_of_Wall_of_Stone"
@@ -2443,13 +2227,11 @@
     "image": "https://bg3.wiki/w/images/thumb/7/7a/Scroll_of_Disintegrate_Faded.png/300px-Scroll_of_Disintegrate_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Very Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  600  gp  "
     ],
-    "details": {
-      "rarity": "Very Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "600  gp"
-    },
     "effect": [],
     "condition": [],
     "link": "https://bg3.wiki/wiki/Scroll_of_Disintegrate"
@@ -2460,13 +2242,11 @@
     "image": "https://bg3.wiki/w/images/thumb/9/90/Scroll_of_Circle_of_Death_Faded.png/300px-Scroll_of_Circle_of_Death_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Very Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  600  gp  "
     ],
-    "details": {
-      "rarity": "Very Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "600  gp"
-    },
     "effect": [
       "Deal 8d6Necrotic",
       " Range: 18 m / 60 ft",
@@ -2481,13 +2261,11 @@
     "image": "https://bg3.wiki/w/images/thumb/a/a0/Scroll_of_Chain_Lightning_Faded.png/300px-Scroll_of_Chain_Lightning_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Very Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  600  gp  "
     ],
-    "details": {
-      "rarity": "Very Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "600  gp"
-    },
     "effect": [],
     "condition": [],
     "link": "https://bg3.wiki/wiki/Scroll_of_Chain_Lightning"
@@ -2498,13 +2276,11 @@
     "image": "https://bg3.wiki/w/images/thumb/2/2d/Scroll_of_Eyebite_Faded.png/300px-Scroll_of_Eyebite_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Very Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  600  gp  "
     ],
-    "details": {
-      "rarity": "Very Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "600  gp"
-    },
     "effect": [
       "Inflict one of the following:FearedPoisonedSleeping",
       " Concentration",
@@ -2520,13 +2296,11 @@
     "image": "https://bg3.wiki/w/images/thumb/f/fd/Scroll_of_Flesh_to_Stone_Faded.png/300px-Scroll_of_Flesh_to_Stone_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Very Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  600  gp  "
     ],
-    "details": {
-      "rarity": "Very Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "600  gp"
-    },
     "effect": [],
     "condition": [],
     "link": "https://bg3.wiki/wiki/Scroll_of_Flesh_to_Stone"
@@ -2537,13 +2311,11 @@
     "image": "https://bg3.wiki/w/images/thumb/a/a9/Scroll_of_Globe_of_Invulnerability_Faded.png/300px-Scroll_of_Globe_of_Invulnerability_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Very Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  600  gp  "
     ],
-    "details": {
-      "rarity": "Very Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "600  gp"
-    },
     "effect": [],
     "condition": [],
     "link": "https://bg3.wiki/wiki/Scroll_of_Globe_of_Invulnerability"
@@ -2554,13 +2326,11 @@
     "image": "https://bg3.wiki/w/images/thumb/1/12/Scroll_of_Otiluke%27s_Freezing_Sphere_Faded.png/300px-Scroll_of_Otiluke%27s_Freezing_Sphere_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Very Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  600  gp  "
     ],
-    "details": {
-      "rarity": "Very Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "600  gp"
-    },
     "effect": [],
     "condition": [],
     "link": "https://bg3.wiki/wiki/Scroll_of_Otiluke%27s_Freezing_Sphere"
@@ -2571,13 +2341,11 @@
     "image": "https://bg3.wiki/w/images/thumb/1/1e/Scroll_of_Otto%27s_Irresistible_Dance_Faded.png/300px-Scroll_of_Otto%27s_Irresistible_Dance_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Very Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  600  gp  "
     ],
-    "details": {
-      "rarity": "Very Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "600  gp"
-    },
     "effect": [],
     "condition": [],
     "link": "https://bg3.wiki/wiki/Scroll_of_Otto%27s_Irresistible_Dance"
@@ -2588,13 +2356,11 @@
     "image": "https://bg3.wiki/w/images/thumb/1/10/Scroll_of_Sunbeam_Faded.png/300px-Scroll_of_Sunbeam_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Very Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  600  gp  "
     ],
-    "details": {
-      "rarity": "Very Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "600  gp"
-    },
     "effect": [
       "Found in a buried chest in Rivington, outside a nearby barn X: 34 Y: -139"
     ],
@@ -2607,13 +2373,11 @@
     "image": "https://bg3.wiki/w/images/thumb/0/0f/Scroll_of_Wall_of_Ice_Faded.png/300px-Scroll_of_Wall_of_Ice_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Very Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  600  gp  "
     ],
-    "details": {
-      "rarity": "Very Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "600  gp"
-    },
     "effect": [],
     "condition": [],
     "link": "https://bg3.wiki/wiki/Scroll_of_Wall_of_Ice"
@@ -2624,13 +2388,11 @@
     "image": "https://bg3.wiki/w/images/thumb/a/af/Scroll_of_Arcane_Eye_Faded.png/300px-Scroll_of_Arcane_Eye_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  130  gp  "
     ],
-    "details": {
-      "rarity": "Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "130  gp"
-    },
     "effect": [
       "Summon a friendly Scrying Eye for  Duration: 99 turns"
     ],
@@ -2642,13 +2404,11 @@
     "description": "Scroll of Counterspell is a single-use scroll that allows the user to cast Counterspell as an action.\n",
     "image": "https://bg3.wiki/w/images/thumb/b/b2/Scroll_of_Counterspell_Faded.png/300px-Scroll_of_Counterspell_Faded.png",
     "properties": [
-      "  Scrolls "
+      "  Scrolls ",
+      "  Rarity: Rare  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  100  gp  "
     ],
-    "details": {
-      "rarity": "Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "100  gp"
-    },
     "effect": [
       "Nullifies another creature's spell as a reaction.",
       " Range: 18 m / 60 ft"
@@ -2657,35 +2417,16 @@
     "link": "https://bg3.wiki/wiki/Scroll_of_Counterspell"
   },
   {
-    "name": "Scroll of Dispel Magic",
-    "description": "Scroll of Dispel Magic is a single-use scroll that allows the user to cast Dispel Magic as an action.\n",
-    "image": "https://bg3.wiki/w/images/thumb/8/87/Book_Parchment_B_Image.png/300px-Book_Parchment_B_Image.png",
-    "properties": [
-      "  Scrolls ",
-      "  Single Use "
-    ],
-    "details": {
-      "rarity": "Rare",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "100  gp"
-    },
-    "effect": [],
-    "condition": [],
-    "link": "https://bg3.wiki/wiki/Scroll_of_Dispel_Magic"
-  },
-  {
     "name": "Scroll of Resistance",
     "description": "Scroll of Resistance is single-use scroll that allows the user to cast Resistance as an action.\n",
     "image": "https://bg3.wiki/w/images/thumb/3/37/Scroll_of_Resistance_Faded.png/300px-Scroll_of_Resistance_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  ???  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "???  gp"
-    },
     "effect": [],
     "condition": [],
     "link": "https://bg3.wiki/wiki/Scroll_of_Resistance"
@@ -2696,13 +2437,11 @@
     "image": "https://bg3.wiki/w/images/thumb/d/d1/Scroll_of_Armour_of_Agathys_Faded.png/300px-Scroll_of_Armour_of_Agathys_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  40  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "40  gp"
-    },
     "effect": [],
     "condition": [],
     "link": "https://bg3.wiki/wiki/Scroll_of_Armour_of_Agathys"
@@ -2713,13 +2452,11 @@
     "image": "https://bg3.wiki/w/images/thumb/f/f7/Scroll_of_Bane_Faded.png/300px-Scroll_of_Bane_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  ???  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "???  gp"
-    },
     "effect": [],
     "condition": [],
     "link": "https://bg3.wiki/wiki/Scroll_of_Bane"
@@ -2730,13 +2467,11 @@
     "image": "https://bg3.wiki/w/images/thumb/e/ec/Scroll_of_Bless_Faded.png/300px-Scroll_of_Bless_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  ???  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "???  gp"
-    },
     "effect": [],
     "condition": [],
     "link": "https://bg3.wiki/wiki/Scroll_of_Bless"
@@ -2747,13 +2482,11 @@
     "image": "https://bg3.wiki/w/images/thumb/8/87/Scroll_of_Guiding_Bolt_Faded.png/300px-Scroll_of_Guiding_Bolt_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  ???  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "???  gp"
-    },
     "effect": [],
     "condition": [],
     "link": "https://bg3.wiki/wiki/Scroll_of_Guiding_Bolt"
@@ -2764,13 +2497,11 @@
     "image": "https://bg3.wiki/w/images/thumb/4/46/Scroll_of_Shield_of_Faith_Faded.png/300px-Scroll_of_Shield_of_Faith_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  ???  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "???  gp"
-    },
     "effect": [],
     "condition": [],
     "link": "https://bg3.wiki/wiki/Scroll_of_Shield_of_Faith"
@@ -2781,13 +2512,11 @@
     "image": "https://bg3.wiki/w/images/thumb/a/a9/Scroll_of_Cure_Wounds_Faded.png/300px-Scroll_of_Cure_Wounds_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  ???  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "???  gp"
-    },
     "effect": [],
     "condition": [],
     "link": "https://bg3.wiki/wiki/Scroll_of_Cure_Wounds"
@@ -2798,13 +2527,11 @@
     "image": "https://bg3.wiki/w/images/thumb/6/66/Scroll_of_Healing_Word_Faded.png/300px-Scroll_of_Healing_Word_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  ???  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "???  gp"
-    },
     "effect": [],
     "condition": [],
     "link": "https://bg3.wiki/wiki/Scroll_of_Healing_Word"
@@ -2815,13 +2542,11 @@
     "image": "https://bg3.wiki/w/images/thumb/9/9d/Scroll_of_Moonbeam_Faded.png/300px-Scroll_of_Moonbeam_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  ???  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "???  gp"
-    },
     "effect": [],
     "condition": [],
     "link": "https://bg3.wiki/wiki/Scroll_of_Moonbeam"
@@ -2832,13 +2557,11 @@
     "image": "https://bg3.wiki/w/images/thumb/1/19/Scroll_of_Inflict_Wounds_Faded.png/300px-Scroll_of_Inflict_Wounds_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  ???  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "???  gp"
-    },
     "effect": [],
     "condition": [],
     "link": "https://bg3.wiki/wiki/Scroll_of_Inflict_Wounds"
@@ -2849,13 +2572,11 @@
     "image": "https://bg3.wiki/w/images/thumb/8/87/Book_Parchment_B_Image.png/300px-Book_Parchment_B_Image.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  ???  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "???  gp"
-    },
     "effect": [],
     "condition": [],
     "link": "https://bg3.wiki/wiki/Scroll_of_Acid_Splash"
@@ -2866,13 +2587,11 @@
     "image": "https://bg3.wiki/w/images/thumb/8/87/Book_Parchment_B_Image.png/300px-Book_Parchment_B_Image.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Common  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  ???  gp  "
     ],
-    "details": {
-      "rarity": "Common",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "???  gp"
-    },
     "effect": [],
     "condition": [],
     "link": "https://bg3.wiki/wiki/Scroll_of_Blade_Ward"
@@ -2883,13 +2602,11 @@
     "image": "https://bg3.wiki/w/images/thumb/9/96/Scroll_of_Prayer_of_Healing_Faded.png/300px-Scroll_of_Prayer_of_Healing_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  ???  gp  "
     ],
-    "details": {
-      "rarity": "Uncommon",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "???  gp"
-    },
     "effect": [],
     "condition": [],
     "link": "https://bg3.wiki/wiki/Scroll_of_Prayer_of_Healing"
@@ -2900,13 +2617,11 @@
     "image": "https://bg3.wiki/w/images/thumb/3/3b/Scroll_of_Barkskin_Faded.png/300px-Scroll_of_Barkskin_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  ???  gp  "
     ],
-    "details": {
-      "rarity": "Uncommon",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "???  gp"
-    },
     "effect": [],
     "condition": [],
     "link": "https://bg3.wiki/wiki/Scroll_of_Barkskin"
@@ -2917,13 +2632,11 @@
     "image": "https://bg3.wiki/w/images/thumb/8/83/Scroll_of_Protection_from_Poison_Faded.png/300px-Scroll_of_Protection_from_Poison_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  ???  gp  "
     ],
-    "details": {
-      "rarity": "Uncommon",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "???  gp"
-    },
     "effect": [],
     "condition": [],
     "link": "https://bg3.wiki/wiki/Scroll_of_Protection_from_Poison"
@@ -2934,13 +2647,11 @@
     "image": "https://bg3.wiki/w/images/thumb/b/ba/Scroll_of_Heat_Metal_Faded.png/300px-Scroll_of_Heat_Metal_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  ???  gp  "
     ],
-    "details": {
-      "rarity": "Uncommon",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "???  gp"
-    },
     "effect": [],
     "condition": [],
     "link": "https://bg3.wiki/wiki/Scroll_of_Heat_Metal"
@@ -2951,13 +2662,11 @@
     "image": "https://bg3.wiki/w/images/thumb/0/04/Scroll_of_Lesser_Restoration_Faded.png/300px-Scroll_of_Lesser_Restoration_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  ???  gp  "
     ],
-    "details": {
-      "rarity": "Uncommon",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "???  gp"
-    },
     "effect": [],
     "condition": [],
     "link": "https://bg3.wiki/wiki/Scroll_of_Lesser_Restoration"
@@ -2968,13 +2677,11 @@
     "image": "https://bg3.wiki/w/images/thumb/6/67/Scroll_of_Silence_Faded.png/300px-Scroll_of_Silence_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  ???  gp  "
     ],
-    "details": {
-      "rarity": "Uncommon",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "???  gp"
-    },
     "effect": [],
     "condition": [],
     "link": "https://bg3.wiki/wiki/Scroll_of_Silence"
@@ -2985,13 +2692,11 @@
     "image": "https://bg3.wiki/w/images/thumb/d/d1/Scroll_of_Spike_Growth_Faded.png/300px-Scroll_of_Spike_Growth_Faded.png",
     "properties": [
       "  Scrolls ",
-      "  Single Use "
+      "  Single Use ",
+      "  Rarity: Uncommon  ",
+      "  Weight: 0.02 kg / 0.04 lb ",
+      "  Price:  ???  gp  "
     ],
-    "details": {
-      "rarity": "Uncommon",
-      "weight": "0.02 kg / 0.04 lb",
-      "price": "???  gp"
-    },
     "effect": [],
     "condition": [],
     "link": "https://bg3.wiki/wiki/Scroll_of_Spike_Growth"
