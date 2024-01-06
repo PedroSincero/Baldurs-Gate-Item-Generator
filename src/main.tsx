@@ -1,6 +1,8 @@
-import React from 'react'
-import ReactDOM from 'react-dom/client'
-import App from './App.tsx'
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import App from './App.tsx';
+import { Scrolls, Weapons } from './pages'
+
 import {
   createBrowserRouter,
   RouterProvider,
@@ -14,11 +16,11 @@ const router = createBrowserRouter([
   },
   {
     path: "/scrolls",
-    element: <h1>Pergaminhos Magicos</h1>,
+    element: <Scrolls />,
   },
   {
     path: "/weapons",
-    element: <h1>Armas</h1>,
+    element: <Weapons />,
   },
 ]);
 
