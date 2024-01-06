@@ -17,50 +17,58 @@ interface ItemProps {
 
 export default function Item({ name, description, image, properties, details, effect, condition, link}: ItemProps) {
   return (
-    <div>
-      <div>
-        <p>{name}</p>
-        <div>
-          <p>{details.rarity}</p>
-          <p>{details.weight}</p>
-          <p>{details.price}</p>
+    <div className="border w-80">
+      <div className="flex border justify-between">
+        <p className="text-lg">{name}</p>
+        <div className="text-xs">
+          <p>Rarity: {details.rarity}</p>
+          <p>Weight: {details.weight}</p>
+          <p>Price: {details.price}</p>
         </div>
       </div>
-      <div>
-        <div>
+      <div className="flex ">
+        <div className="border ">
           <img src={image} alt={name}  />
         </div>
         <div>
-          <div>
-          {
-            properties.map((property) => (
-              <p>{property}</p>
-            ))
-          }
+          <div className="border">
+            Properties
+            {
+              properties.map((property) => (
+                <p className="text-xs">{property}</p>
+              ))
+            }
           </div>
+          <div className="border">
+            Description
+            <p className="text-xs">
+              {description}
+            </p>
+          </div>
+
+
         </div>
-        <div>
-          <p>
-            {description}
-          </p>
-        </div>
-        <div>
-          {
-            effect.map((effect) => (
-              <p>{effect}</p>
-            ))
-          }
-        </div>
-        <div>
-          {
-            condition.map((condition) => (
-              <p>{condition}</p>
-            ))
-          }
-        </div>
-        <div>
-          <a href={link} target="_blank" rel="noreferrer">More Details</a>
-        </div>
+      </div>
+          <div className="flex justify-between">
+            <div className="border">
+              Conditions
+              {
+                condition.map((condition) => (
+                  <p className="text-xs">{condition}</p>
+                ))
+              }
+            </div>
+            <div className="border">
+              Effects
+              {
+                effect.map((effect) => (
+                  <p className="text-xs">{effect}</p>
+                ))
+              }
+            </div>
+          </div>
+      <div className="border">
+        <a href={link} target="_blank" rel="noreferrer">More Details</a>
       </div>
     </div>
   )
