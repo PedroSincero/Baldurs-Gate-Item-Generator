@@ -8,17 +8,14 @@ interface ItemProps {
   name: string;
   description: string;
   image: string;
-  properties: string[];
   details: DetailsScrolls;
-  effect: string[];
-  condition: string[];
   link: string;
 }
 
-export default function Item({ name, description, image, properties, details, effect, condition, link}: ItemProps) {
+export default function Item({ name, description, image, details, link}: ItemProps) {
   return (
-    <div className="border h-[500px]">
-      <div className="grid grid-flow-col border h-16">
+    <div className="border w-80">
+      <div className="grid grid-flow-col border">
         <p className="text-lg">{name}</p>
         <div className="text-xs">
           <p>Rarity: {details.rarity}</p>
@@ -26,33 +23,31 @@ export default function Item({ name, description, image, properties, details, ef
           <p>Price: {details.price}</p>
         </div>
       </div>
-      <div className="flex ">
-        <div className="border">
-        <a href={link} target="_blank" rel="noreferrer">
-          <img src={image} alt={name}  className=" w-72"/>
-          More Details
-        </a>
-        </div>
+      <div className="flex w-full h-full">
+        <img src={image} alt={name}  className=" border w-28 h-24"/>
+        {/* <div className="border">
+        {/* </div> */}
         <div>
-          <div className="border">
+          {/* <div className="border">
             Properties
             {
               properties.map((property) => (
                 <p className="text-xs">{property}</p>
               ))
             }
-          </div>
+          </div> */}
           <div className="border">
             Description
             <p className="text-xs">
               {description}
             </p>
           </div>
-
-
+          <a href={link} target="_blank" rel="noreferrer" >
+            More Details
+          </a> 
         </div>
       </div>
-      <div className="grid grid-flow-col border">
+      {/* <div className="grid grid-flow-col border">
         <div className="border">
           Conditions
           {
@@ -69,7 +64,7 @@ export default function Item({ name, description, image, properties, details, ef
             ))
           }
         </div>
-      </div>
+      </div> */}
       {/* <div className="flex border items-end">
         
       </div> */}
